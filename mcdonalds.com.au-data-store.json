@@ -73486,46 +73486,41 @@
       ],
       [
         "Sunday",
-        "0000",
+        "0500",
         "0000"
       ],
       [
         "Monday",
-        "0000",
+        "0500",
         "0000"
       ],
       [
         "Tuesday",
-        "0000",
+        "0500",
         "0000"
       ],
       [
         "Wednesday",
-        "0000",
+        "0500",
         "0000"
       ],
       [
         "Thursday",
-        "0000",
+        "0500",
         "0000"
       ],
       [
         "Friday",
-        "0000",
+        "0500",
         "0000"
       ],
       [
         "Saturday",
-        "0000",
+        "0500",
         "0000"
       ]
     ],
     "store_filter": [
-      {
-        "tid": "12",
-        "name": "24 Hours",
-        "targetType": "taxonomy_term"
-      },
       {
         "tid": "15",
         "name": "Drive Thru",
@@ -73555,7 +73550,7 @@
     "store_geocode": "151.0137963294983,-34.01520141315503,0",
     "cyt_coverage": "Menai 2234",
     "cyt_hours": "<p>Sun 10:30 am - 10:00pm</p>\n<p>Mon 10:30 am - 10:00pm</p>\n<p>Tue 10:30 am - 10:00pm</p>\n<p>Wed 10:30 am - 10:00pm</p>\n<p>Thu 10:30 am - 10:00pm</p>\n<p>Fri 10:30 am - 10:00pm</p>\n<p>Sat 10:30 am - 10:00pm</p>\n",
-    "cyt_hours_raw": "<p>Sun 10:30 am - 10:00pm</p>\n<p>Mon 10:30 am - 10:00pm</p>\n<p>Tue 10:30 am - 10:00pm</p>\n<p>Wed 10:30 am - 10:00pm</p>\n<p>Thu 10:30 am - 10:00pm</p>\n<p>Fri 10:30 am - 10:00pm</p>\n<p>Sat 10:30 am - 10:00pm</p>\n",
+    "cyt_hours_raw": "<p>Sun 10:30 am - 10:00pm</p><p>Mon&nbsp;10:30 am - 10:00pm</p><p>Tue&nbsp;10:30 am - 10:00pm</p><p>Wed&nbsp;10:30 am -&nbsp;10:00pm</p><p>Thu&nbsp;10:30 am -&nbsp;10:00pm</p><p>Fri&nbsp;10:30 am -&nbsp;10:00pm</p><p>Sat&nbsp;10:30 am -&nbsp;10:00pm</p>",
     "cyt_open_date": null,
     "mcdelivery_hours_breakfast": null,
     "mcdelivery_hours_breakfast_raw": null,
@@ -73575,7 +73570,7 @@
     "mccafe_desktop_url": null,
     "mcdelivery_open_date": null,
     "mcdelivery_coverage": "<p><span>Menai 2234;</span></p>\n",
-    "mcdelivery_coverage_raw": "<p><span>Menai 2234;</span></p>\n",
+    "mcdelivery_coverage_raw": "<p><span>Menai 2234;</span></p>",
     "mcdelivery_com_au_url": null,
     "mcdelivery_com_au_lunch_de": null,
     "mcdelivery_com_au_dinner_d": null,
@@ -73596,13 +73591,13 @@
     "mcdelivery_time_mds_din_raw": null,
     "mcdelivery_link_ubr": "https://1qt-1.tlnk.io/serve?action=click&publisher_id=338009&site_id=113033&invoke_url=ubereats%3A%2F%2F&sub_campaign=au-national_en_eater_css_au-mcdonalds-website&sub_adgroup=affiliate&site_id_android=116377&site_id_web=102144&sub_publisher=mcdonalds",
     "mcdelivery_time_ubr_brk": "<p><span>Mon - Sun 7:00am - 10:30am</span></p>\n",
-    "mcdelivery_time_ubr_brk_raw": "<p><span>Mon - Sun 7:00am - 10:30am</span></p>\n",
+    "mcdelivery_time_ubr_brk_raw": "<p><span>Mon - Sun 7:00am - 10:30am</span></p>",
     "mcdelivery_time_ubr_lun": "<p><span>Mon - Sun 10:30am - 5:00pm</span></p>\n",
-    "mcdelivery_time_ubr_lun_raw": "<p><span>Mon - Sun 10:30am - 5:00pm</span></p>\n",
+    "mcdelivery_time_ubr_lun_raw": "<p><span>Mon - Sun 10:30am - 5:00pm</span></p>",
     "mcdelivery_time_ubr_din": "<p><span>Mon - Sun 5:00pm - midnight</span></p>\n",
-    "mcdelivery_time_ubr_din_raw": "<p><span>Mon - Sun 5:00pm - midnight</span></p>\n",
+    "mcdelivery_time_ubr_din_raw": "<p><span>Mon - Sun 5:00pm - midnight</span></p>",
     "mcdelivery_disc_ubr": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>\n",
-    "mcdelivery_disc_ubr_raw": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>\n",
+    "mcdelivery_disc_ubr_raw": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>",
     "lat_long": {
       "geom": "POINT (151.0137963295 -34.015201413155)",
       "geo_type": "point",
