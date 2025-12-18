@@ -167173,5 +167173,473 @@
     "mcdelivery_time_ddsh_brk": null,
     "mcdelivery_time_ddsh_lun": null,
     "mcdelivery_time_ddsh_din": null
+  },
+  {
+    "title": "BURPENGARY EAST",
+    "nid": "25637",
+    "status": "1",
+    "store_code": "9502348",
+    "store_address": "143 Uhlmann Rd",
+    "store_suburb": "Burpengary East",
+    "store_state": "QLD",
+    "store_postcode": "4505",
+    "store_phone": "07 5431 3900",
+    "store_fax": null,
+    "store_building_type": "Freestanding",
+    "store_party_room_seat": null,
+    "store_trading_hour": [
+      [
+        "Day",
+        "Open",
+        "Close"
+      ],
+      [
+        "Sunday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Monday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Tuesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Wednesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Thursday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Friday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Saturday",
+        "0000",
+        "0000"
+      ]
+    ],
+    "store_filter": [
+      {
+        "tid": "12",
+        "name": "24 Hours",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "15",
+        "name": "Drive Thru",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "11",
+        "name": "McCafé",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "27",
+        "name": "McDelivery",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "13",
+        "name": "Playland",
+        "targetType": "taxonomy_term"
+      }
+    ],
+    "store_geocode": "152.9831087, -27.1389121 ",
+    "cyt_coverage": "Burpengary 4505",
+    "cyt_hours": null,
+    "cyt_hours_raw": null,
+    "cyt_open_date": null,
+    "mcdelivery_hours_breakfast": null,
+    "mcdelivery_hours_breakfast_raw": null,
+    "mcdelivery_breakfast_mobil": null,
+    "mcdelivery_breakfast_deskt": null,
+    "mcdelivery_lunch_hours": null,
+    "mcdelivery_lunch_hours_raw": null,
+    "mcdeliv_lunch_mobile_url": null,
+    "mcdeliv_lunch_desktop_url": null,
+    "mcdelivery_hours_dinner": null,
+    "mcdelivery_hours_dinner_raw": null,
+    "mcdelivery_dinner_mobile_u": null,
+    "mcdelivery_dinner_desktop_": null,
+    "mccafe_hours": null,
+    "mccafe_hours_raw": null,
+    "mccafe_mobile_url": null,
+    "mccafe_desktop_url": null,
+    "mcdelivery_open_date": null,
+    "mcdelivery_coverage": "<p><span>Burpengary, 4505;</span></p>\n",
+    "mcdelivery_coverage_raw": "<p><span>Burpengary, 4505;</span></p>",
+    "mcdelivery_com_au_url": null,
+    "mcdelivery_com_au_lunch_de": null,
+    "mcdelivery_com_au_dinner_d": null,
+    "mcdelivery_com_au_breakfas": null,
+    "mcdelivery_com_au_lunch_mo": null,
+    "mcdelivery_com_au_dinner_m": null,
+    "mcdelivery_external_url": null,
+    "mcdelivery_part_coverage": null,
+    "mcdelivery_part_coverage_raw": null,
+    "mcdelivery_coverage_toggle": true,
+    "mcdelivery_location_toggle": true,
+    "mcdelivery_link_mds": null,
+    "mcdelivery_time_mds_brk": null,
+    "mcdelivery_time_mds_brk_raw": null,
+    "mcdelivery_time_mds_lun": null,
+    "mcdelivery_time_mds_lun_raw": null,
+    "mcdelivery_time_mds_din": null,
+    "mcdelivery_time_mds_din_raw": null,
+    "mcdelivery_link_ubr": null,
+    "mcdelivery_time_ubr_brk": null,
+    "mcdelivery_time_ubr_brk_raw": null,
+    "mcdelivery_time_ubr_lun": null,
+    "mcdelivery_time_ubr_lun_raw": null,
+    "mcdelivery_time_ubr_din": null,
+    "mcdelivery_time_ubr_din_raw": null,
+    "mcdelivery_disc_ubr": "<p><span>Delivery zones vary by partner.</span></p>\n",
+    "mcdelivery_disc_ubr_raw": "<p><span>Delivery zones vary by partner.</span></p>",
+    "lat_long": {
+      "geom": "POINT (152.9831087 -27.1389121)",
+      "geo_type": "point",
+      "lat": "-27.138912100000",
+      "lon": "152.983108700000",
+      "left": "152.983108700000",
+      "top": "-27.138912100000",
+      "right": "152.983108700000",
+      "bottom": "-27.138912100000",
+      "geohash": "r7hv95wbku1er"
+    },
+    "store_location_description": null,
+    "mcdelivery_link_mnlg": "https://www.menulog.com.au/takeaway/brands/mcdonalds?utm_medium=home_page&utm_source=mcdonalds&utm_campaign=direct_links ",
+    "mcdelivery_time_mnlg_brk": null,
+    "mcdelivery_disc_mnlg": null,
+    "mcdelivery_time_mnlg_lun": null,
+    "mcdelivery_time_mnlg_din": null,
+    "mcdelivery_link_ddsh": null,
+    "mcdelivery_disc_ddsh": null,
+    "mcdelivery_time_ddsh_brk": null,
+    "mcdelivery_time_ddsh_lun": null,
+    "mcdelivery_time_ddsh_din": null
+  },
+  {
+    "title": "North Haven, SA",
+    "nid": "25641",
+    "status": "1",
+    "store_code": "9502591",
+    "store_address": "46-56 Osborne Road",
+    "store_suburb": "North Haven",
+    "store_state": "SA",
+    "store_postcode": "5018",
+    "store_phone": "08 8249 6300",
+    "store_fax": null,
+    "store_building_type": "Freestanding",
+    "store_party_room_seat": null,
+    "store_trading_hour": [
+      [
+        "Day",
+        "Open",
+        "Close"
+      ],
+      [
+        "Sunday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Monday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Tuesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Wednesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Thursday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Friday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Saturday",
+        "0000",
+        "0000"
+      ]
+    ],
+    "store_filter": [
+      {
+        "tid": "12",
+        "name": "24 Hours",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "15",
+        "name": "Drive Thru",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "11",
+        "name": "McCafé",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "27",
+        "name": "McDelivery",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "13",
+        "name": "Playland",
+        "targetType": "taxonomy_term"
+      }
+    ],
+    "store_geocode": "138.497088, -34.793454",
+    "cyt_coverage": null,
+    "cyt_hours": null,
+    "cyt_hours_raw": null,
+    "cyt_open_date": null,
+    "mcdelivery_hours_breakfast": null,
+    "mcdelivery_hours_breakfast_raw": null,
+    "mcdelivery_breakfast_mobil": null,
+    "mcdelivery_breakfast_deskt": null,
+    "mcdelivery_lunch_hours": null,
+    "mcdelivery_lunch_hours_raw": null,
+    "mcdeliv_lunch_mobile_url": null,
+    "mcdeliv_lunch_desktop_url": null,
+    "mcdelivery_hours_dinner": null,
+    "mcdelivery_hours_dinner_raw": null,
+    "mcdelivery_dinner_mobile_u": null,
+    "mcdelivery_dinner_desktop_": null,
+    "mccafe_hours": null,
+    "mccafe_hours_raw": null,
+    "mccafe_mobile_url": null,
+    "mccafe_desktop_url": null,
+    "mcdelivery_open_date": null,
+    "mcdelivery_coverage": "<p><span>North Haven, 5018</span></p>\n",
+    "mcdelivery_coverage_raw": "<p><span>North Haven, 5018</span></p>",
+    "mcdelivery_com_au_url": null,
+    "mcdelivery_com_au_lunch_de": null,
+    "mcdelivery_com_au_dinner_d": null,
+    "mcdelivery_com_au_breakfas": null,
+    "mcdelivery_com_au_lunch_mo": null,
+    "mcdelivery_com_au_dinner_m": null,
+    "mcdelivery_external_url": null,
+    "mcdelivery_part_coverage": null,
+    "mcdelivery_part_coverage_raw": null,
+    "mcdelivery_coverage_toggle": true,
+    "mcdelivery_location_toggle": true,
+    "mcdelivery_link_mds": null,
+    "mcdelivery_time_mds_brk": null,
+    "mcdelivery_time_mds_brk_raw": null,
+    "mcdelivery_time_mds_lun": null,
+    "mcdelivery_time_mds_lun_raw": null,
+    "mcdelivery_time_mds_din": null,
+    "mcdelivery_time_mds_din_raw": null,
+    "mcdelivery_link_ubr": null,
+    "mcdelivery_time_ubr_brk": null,
+    "mcdelivery_time_ubr_brk_raw": null,
+    "mcdelivery_time_ubr_lun": null,
+    "mcdelivery_time_ubr_lun_raw": null,
+    "mcdelivery_time_ubr_din": null,
+    "mcdelivery_time_ubr_din_raw": null,
+    "mcdelivery_disc_ubr": "<p>Delivery zones vary by partner.</p>\n",
+    "mcdelivery_disc_ubr_raw": "<p>Delivery zones vary by partner.</p>",
+    "lat_long": {
+      "geom": "POINT (138.497088 -34.793454)",
+      "geo_type": "point",
+      "lat": "-34.793454000000",
+      "lon": "138.497088000000",
+      "left": "138.497088000000",
+      "top": "-34.793454000000",
+      "right": "138.497088000000",
+      "bottom": "-34.793454000000",
+      "geohash": "r1f6pd492n1f"
+    },
+    "store_location_description": null,
+    "mcdelivery_link_mnlg": "https://www.menulog.com.au/takeaway/brands/mcdonalds?utm_medium=home_page&utm_source=mcdonalds&utm_campaign=direct_links ",
+    "mcdelivery_time_mnlg_brk": null,
+    "mcdelivery_disc_mnlg": null,
+    "mcdelivery_time_mnlg_lun": null,
+    "mcdelivery_time_mnlg_din": null,
+    "mcdelivery_link_ddsh": null,
+    "mcdelivery_disc_ddsh": null,
+    "mcdelivery_time_ddsh_brk": null,
+    "mcdelivery_time_ddsh_lun": null,
+    "mcdelivery_time_ddsh_din": null
+  },
+  {
+    "title": "Parkes Bypass, NSW ",
+    "nid": "25643",
+    "status": "1",
+    "store_code": "9502632",
+    "store_address": "55 Westlime Road ",
+    "store_suburb": "Parkes",
+    "store_state": "NSW",
+    "store_postcode": "2870",
+    "store_phone": "02 6816 3000 ",
+    "store_fax": null,
+    "store_building_type": "Freestanding",
+    "store_party_room_seat": null,
+    "store_trading_hour": [
+      [
+        "Day",
+        "Open",
+        "Close"
+      ],
+      [
+        "Sunday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Monday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Tuesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Wednesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Thursday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Friday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Saturday",
+        "0000",
+        "0000"
+      ]
+    ],
+    "store_filter": [
+      {
+        "tid": "12",
+        "name": "24 Hours",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "15",
+        "name": "Drive Thru",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "11",
+        "name": "McCafé",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "27",
+        "name": "McDelivery",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "16",
+        "name": "WiFi",
+        "targetType": "taxonomy_term"
+      }
+    ],
+    "store_geocode": "148.18, -33.15",
+    "cyt_coverage": "Parkes 2870",
+    "cyt_hours": null,
+    "cyt_hours_raw": null,
+    "cyt_open_date": null,
+    "mcdelivery_hours_breakfast": null,
+    "mcdelivery_hours_breakfast_raw": null,
+    "mcdelivery_breakfast_mobil": null,
+    "mcdelivery_breakfast_deskt": null,
+    "mcdelivery_lunch_hours": null,
+    "mcdelivery_lunch_hours_raw": null,
+    "mcdeliv_lunch_mobile_url": null,
+    "mcdeliv_lunch_desktop_url": null,
+    "mcdelivery_hours_dinner": null,
+    "mcdelivery_hours_dinner_raw": null,
+    "mcdelivery_dinner_mobile_u": null,
+    "mcdelivery_dinner_desktop_": null,
+    "mccafe_hours": null,
+    "mccafe_hours_raw": null,
+    "mccafe_mobile_url": null,
+    "mccafe_desktop_url": null,
+    "mcdelivery_open_date": null,
+    "mcdelivery_coverage": "<p>Parkes 2870;</p>\n",
+    "mcdelivery_coverage_raw": "<p>Parkes 2870;</p>",
+    "mcdelivery_com_au_url": null,
+    "mcdelivery_com_au_lunch_de": null,
+    "mcdelivery_com_au_dinner_d": null,
+    "mcdelivery_com_au_breakfas": null,
+    "mcdelivery_com_au_lunch_mo": null,
+    "mcdelivery_com_au_dinner_m": null,
+    "mcdelivery_external_url": null,
+    "mcdelivery_part_coverage": null,
+    "mcdelivery_part_coverage_raw": null,
+    "mcdelivery_coverage_toggle": true,
+    "mcdelivery_location_toggle": true,
+    "mcdelivery_link_mds": null,
+    "mcdelivery_time_mds_brk": null,
+    "mcdelivery_time_mds_brk_raw": null,
+    "mcdelivery_time_mds_lun": null,
+    "mcdelivery_time_mds_lun_raw": null,
+    "mcdelivery_time_mds_din": null,
+    "mcdelivery_time_mds_din_raw": null,
+    "mcdelivery_link_ubr": null,
+    "mcdelivery_time_ubr_brk": null,
+    "mcdelivery_time_ubr_brk_raw": null,
+    "mcdelivery_time_ubr_lun": null,
+    "mcdelivery_time_ubr_lun_raw": null,
+    "mcdelivery_time_ubr_din": null,
+    "mcdelivery_time_ubr_din_raw": null,
+    "mcdelivery_disc_ubr": null,
+    "mcdelivery_disc_ubr_raw": null,
+    "lat_long": {
+      "geom": "POINT (148.18 -33.15)",
+      "geo_type": "point",
+      "lat": "-33.150000000000",
+      "lon": "148.180000000000",
+      "left": "148.180000000000",
+      "top": "-33.150000000000",
+      "right": "148.180000000000",
+      "bottom": "-33.150000000000",
+      "geohash": "r6177v"
+    },
+    "store_location_description": null,
+    "mcdelivery_link_mnlg": "https://www.menulog.com.au/takeaway/brands/mcdonalds?utm_medium=home_page&utm_source=mcdonalds&utm_campaign=direct_links ",
+    "mcdelivery_time_mnlg_brk": null,
+    "mcdelivery_disc_mnlg": null,
+    "mcdelivery_time_mnlg_lun": null,
+    "mcdelivery_time_mnlg_din": null,
+    "mcdelivery_link_ddsh": null,
+    "mcdelivery_disc_ddsh": null,
+    "mcdelivery_time_ddsh_brk": null,
+    "mcdelivery_time_ddsh_lun": null,
+    "mcdelivery_time_ddsh_din": null
   }
 ]
