@@ -167038,11 +167038,11 @@
     "nid": "25633",
     "status": "1",
     "store_code": "9502597",
-    "store_address": "205B, 255 Grattan Street",
+    "store_address": "250 Grattan Street",
     "store_suburb": "Parkville",
     "store_state": "VIC",
     "store_postcode": "3052",
-    "store_phone": "(03) 8341 0000",
+    "store_phone": "(03) 8341 0001",
     "store_fax": null,
     "store_building_type": "Retail",
     "store_party_room_seat": null,
@@ -167054,38 +167054,38 @@
       ],
       [
         "Sunday",
-        "0400",
-        "2400"
+        "0700",
+        "1900"
       ],
       [
         "Monday",
-        "0400",
-        "2400"
+        "0700",
+        "1900"
       ],
       [
         "Tuesday",
-        "0400",
-        "2400"
+        "0700",
+        "1900"
       ],
       [
         "Wednesday",
-        "0400",
-        "2400"
+        "0700",
+        "1900"
       ],
       [
         "Thursday",
-        "0400",
-        "2400"
+        "0700",
+        "1900"
       ],
       [
         "Friday",
-        "0400",
-        "2400"
+        "0700",
+        "1900"
       ],
       [
         "Saturday",
-        "0400",
-        "2400"
+        "0700",
+        "1900"
       ]
     ],
     "store_filter": [
@@ -167100,7 +167100,7 @@
         "targetType": "taxonomy_term"
       }
     ],
-    "store_geocode": "144.9633,-37.814,0",
+    "store_geocode": "144.95962015641544,-37.799880822480326,0",
     "cyt_coverage": null,
     "cyt_hours": null,
     "cyt_hours_raw": null,
@@ -167152,15 +167152,15 @@
     "mcdelivery_disc_ubr": null,
     "mcdelivery_disc_ubr_raw": null,
     "lat_long": {
-      "geom": "POINT (144.9633 -37.814)",
+      "geom": "POINT (144.95962015642 -37.79988082248)",
       "geo_type": "point",
-      "lat": "-37.814000000000",
-      "lon": "144.963300000000",
-      "left": "144.963300000000",
-      "top": "-37.814000000000",
-      "right": "144.963300000000",
-      "bottom": "-37.814000000000",
-      "geohash": "r1r0fspj3"
+      "lat": "-37.799880822480",
+      "lon": "144.959620156420",
+      "left": "144.959620156420",
+      "top": "-37.799880822480",
+      "right": "144.959620156420",
+      "bottom": "-37.799880822480",
+      "geohash": "r1r0fwsrezrpcs5y"
     },
     "store_location_description": null,
     "mcdelivery_link_mnlg": null,
@@ -167632,6 +167632,761 @@
     },
     "store_location_description": null,
     "mcdelivery_link_mnlg": "https://www.menulog.com.au/takeaway/brands/mcdonalds?utm_medium=home_page&utm_source=mcdonalds&utm_campaign=direct_links ",
+    "mcdelivery_time_mnlg_brk": null,
+    "mcdelivery_disc_mnlg": null,
+    "mcdelivery_time_mnlg_lun": null,
+    "mcdelivery_time_mnlg_din": null,
+    "mcdelivery_link_ddsh": null,
+    "mcdelivery_disc_ddsh": null,
+    "mcdelivery_time_ddsh_brk": null,
+    "mcdelivery_time_ddsh_lun": null,
+    "mcdelivery_time_ddsh_din": null
+  },
+  {
+    "title": "BRISBANE INTERNATIONAL AIRPORT",
+    "nid": "25645",
+    "status": "1",
+    "store_code": "9502778",
+    "store_address": "32 Airport Drive",
+    "store_suburb": "Brisbane Airport",
+    "store_state": "QLD",
+    "store_postcode": "4008",
+    "store_phone": "07 3159 0000",
+    "store_fax": null,
+    "store_building_type": "Instore",
+    "store_party_room_seat": null,
+    "store_trading_hour": [
+      [
+        "Day",
+        "Open",
+        "Close"
+      ],
+      [
+        "Sunday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Monday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Tuesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Wednesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Thursday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Friday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Saturday",
+        "0000",
+        "0000"
+      ]
+    ],
+    "store_filter": [
+      {
+        "tid": "12",
+        "name": "24 Hours",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "11",
+        "name": "McCafé",
+        "targetType": "taxonomy_term"
+      }
+    ],
+    "store_geocode": "153.10182189941406,-27.405553817749023,0",
+    "cyt_coverage": null,
+    "cyt_hours": null,
+    "cyt_hours_raw": null,
+    "cyt_open_date": null,
+    "mcdelivery_hours_breakfast": null,
+    "mcdelivery_hours_breakfast_raw": null,
+    "mcdelivery_breakfast_mobil": null,
+    "mcdelivery_breakfast_deskt": null,
+    "mcdelivery_lunch_hours": null,
+    "mcdelivery_lunch_hours_raw": null,
+    "mcdeliv_lunch_mobile_url": null,
+    "mcdeliv_lunch_desktop_url": null,
+    "mcdelivery_hours_dinner": null,
+    "mcdelivery_hours_dinner_raw": null,
+    "mcdelivery_dinner_mobile_u": null,
+    "mcdelivery_dinner_desktop_": null,
+    "mccafe_hours": null,
+    "mccafe_hours_raw": null,
+    "mccafe_mobile_url": null,
+    "mccafe_desktop_url": null,
+    "mcdelivery_open_date": null,
+    "mcdelivery_coverage": null,
+    "mcdelivery_coverage_raw": null,
+    "mcdelivery_com_au_url": null,
+    "mcdelivery_com_au_lunch_de": null,
+    "mcdelivery_com_au_dinner_d": null,
+    "mcdelivery_com_au_breakfas": null,
+    "mcdelivery_com_au_lunch_mo": null,
+    "mcdelivery_com_au_dinner_m": null,
+    "mcdelivery_external_url": null,
+    "mcdelivery_part_coverage": null,
+    "mcdelivery_part_coverage_raw": null,
+    "mcdelivery_coverage_toggle": true,
+    "mcdelivery_location_toggle": true,
+    "mcdelivery_link_mds": null,
+    "mcdelivery_time_mds_brk": null,
+    "mcdelivery_time_mds_brk_raw": null,
+    "mcdelivery_time_mds_lun": null,
+    "mcdelivery_time_mds_lun_raw": null,
+    "mcdelivery_time_mds_din": null,
+    "mcdelivery_time_mds_din_raw": null,
+    "mcdelivery_link_ubr": null,
+    "mcdelivery_time_ubr_brk": null,
+    "mcdelivery_time_ubr_brk_raw": null,
+    "mcdelivery_time_ubr_lun": null,
+    "mcdelivery_time_ubr_lun_raw": null,
+    "mcdelivery_time_ubr_din": null,
+    "mcdelivery_time_ubr_din_raw": null,
+    "mcdelivery_disc_ubr": null,
+    "mcdelivery_disc_ubr_raw": null,
+    "lat_long": {
+      "geom": "POINT (153.10182189941 -27.405553817749)",
+      "geo_type": "point",
+      "lat": "-27.405553817749",
+      "lon": "153.101821899410",
+      "left": "153.101821899410",
+      "top": "-27.405553817749",
+      "right": "153.101821899410",
+      "bottom": "-27.405553817749",
+      "geohash": "r7hu5fvr542xwu85"
+    },
+    "store_location_description": null,
+    "mcdelivery_link_mnlg": null,
+    "mcdelivery_time_mnlg_brk": null,
+    "mcdelivery_disc_mnlg": null,
+    "mcdelivery_time_mnlg_lun": null,
+    "mcdelivery_time_mnlg_din": null,
+    "mcdelivery_link_ddsh": null,
+    "mcdelivery_disc_ddsh": null,
+    "mcdelivery_time_ddsh_brk": null,
+    "mcdelivery_time_ddsh_lun": null,
+    "mcdelivery_time_ddsh_din": null
+  },
+  {
+    "title": "DANDENONG SOUTH VIC",
+    "nid": "25647",
+    "status": "1",
+    "store_code": "9501368",
+    "store_address": "T1, 260-270 Frankston – Dandenong Road",
+    "store_suburb": "Dandenong",
+    "store_state": "VIC",
+    "store_postcode": "3175",
+    "store_phone": "03 8763 8300",
+    "store_fax": null,
+    "store_building_type": "DT Only",
+    "store_party_room_seat": null,
+    "store_trading_hour": [
+      [
+        "Day",
+        "Open",
+        "Close"
+      ],
+      [
+        "Sunday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Monday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Tuesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Wednesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Thursday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Friday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Saturday",
+        "0000",
+        "0000"
+      ]
+    ],
+    "store_filter": [
+      {
+        "tid": "12",
+        "name": "24 Hours",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "15",
+        "name": "Drive Thru",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "11",
+        "name": "McCafé",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "27",
+        "name": "McDelivery",
+        "targetType": "taxonomy_term"
+      }
+    ],
+    "store_geocode": "145.21215146491602,-38.02703703665376,0",
+    "cyt_coverage": null,
+    "cyt_hours": null,
+    "cyt_hours_raw": null,
+    "cyt_open_date": null,
+    "mcdelivery_hours_breakfast": null,
+    "mcdelivery_hours_breakfast_raw": null,
+    "mcdelivery_breakfast_mobil": null,
+    "mcdelivery_breakfast_deskt": null,
+    "mcdelivery_lunch_hours": null,
+    "mcdelivery_lunch_hours_raw": null,
+    "mcdeliv_lunch_mobile_url": null,
+    "mcdeliv_lunch_desktop_url": null,
+    "mcdelivery_hours_dinner": null,
+    "mcdelivery_hours_dinner_raw": null,
+    "mcdelivery_dinner_mobile_u": null,
+    "mcdelivery_dinner_desktop_": null,
+    "mccafe_hours": null,
+    "mccafe_hours_raw": null,
+    "mccafe_mobile_url": null,
+    "mccafe_desktop_url": null,
+    "mcdelivery_open_date": null,
+    "mcdelivery_coverage": "<p><span>Dandenong, 3175</span></p>\n",
+    "mcdelivery_coverage_raw": "<p><span>Dandenong, 3175</span></p>",
+    "mcdelivery_com_au_url": null,
+    "mcdelivery_com_au_lunch_de": null,
+    "mcdelivery_com_au_dinner_d": null,
+    "mcdelivery_com_au_breakfas": null,
+    "mcdelivery_com_au_lunch_mo": null,
+    "mcdelivery_com_au_dinner_m": null,
+    "mcdelivery_external_url": null,
+    "mcdelivery_part_coverage": null,
+    "mcdelivery_part_coverage_raw": null,
+    "mcdelivery_coverage_toggle": true,
+    "mcdelivery_location_toggle": true,
+    "mcdelivery_link_mds": null,
+    "mcdelivery_time_mds_brk": null,
+    "mcdelivery_time_mds_brk_raw": null,
+    "mcdelivery_time_mds_lun": null,
+    "mcdelivery_time_mds_lun_raw": null,
+    "mcdelivery_time_mds_din": null,
+    "mcdelivery_time_mds_din_raw": null,
+    "mcdelivery_link_ubr": null,
+    "mcdelivery_time_ubr_brk": null,
+    "mcdelivery_time_ubr_brk_raw": null,
+    "mcdelivery_time_ubr_lun": null,
+    "mcdelivery_time_ubr_lun_raw": null,
+    "mcdelivery_time_ubr_din": null,
+    "mcdelivery_time_ubr_din_raw": null,
+    "mcdelivery_disc_ubr": null,
+    "mcdelivery_disc_ubr_raw": null,
+    "lat_long": {
+      "geom": "POINT (145.21215146492 -38.027037036654)",
+      "geo_type": "point",
+      "lat": "-38.027037036654",
+      "lon": "145.212151464920",
+      "left": "145.212151464920",
+      "top": "-38.027037036654",
+      "right": "145.212151464920",
+      "bottom": "-38.027037036654",
+      "geohash": "r1pr8mkk2qs03353"
+    },
+    "store_location_description": null,
+    "mcdelivery_link_mnlg": null,
+    "mcdelivery_time_mnlg_brk": null,
+    "mcdelivery_disc_mnlg": null,
+    "mcdelivery_time_mnlg_lun": null,
+    "mcdelivery_time_mnlg_din": null,
+    "mcdelivery_link_ddsh": null,
+    "mcdelivery_disc_ddsh": null,
+    "mcdelivery_time_ddsh_brk": null,
+    "mcdelivery_time_ddsh_lun": null,
+    "mcdelivery_time_ddsh_din": null
+  },
+  {
+    "title": "MAMBOURIN VIC",
+    "nid": "25649",
+    "status": "1",
+    "store_code": "9502078",
+    "store_address": "12 Rail Circuit",
+    "store_suburb": "Mambourin",
+    "store_state": "VIC",
+    "store_postcode": "3024",
+    "store_phone": "03 8734 3300",
+    "store_fax": null,
+    "store_building_type": "Freestanding",
+    "store_party_room_seat": null,
+    "store_trading_hour": [
+      [
+        "Day",
+        "Open",
+        "Close"
+      ],
+      [
+        "Sunday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Monday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Tuesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Wednesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Thursday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Friday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Saturday",
+        "0000",
+        "0000"
+      ]
+    ],
+    "store_filter": [
+      {
+        "tid": "12",
+        "name": "24 Hours",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "15",
+        "name": "Drive Thru",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "11",
+        "name": "McCafé",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "27",
+        "name": "McDelivery",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "13",
+        "name": "Playland",
+        "targetType": "taxonomy_term"
+      }
+    ],
+    "store_geocode": "144.598773,-37.897990,0",
+    "cyt_coverage": null,
+    "cyt_hours": null,
+    "cyt_hours_raw": null,
+    "cyt_open_date": null,
+    "mcdelivery_hours_breakfast": null,
+    "mcdelivery_hours_breakfast_raw": null,
+    "mcdelivery_breakfast_mobil": null,
+    "mcdelivery_breakfast_deskt": null,
+    "mcdelivery_lunch_hours": null,
+    "mcdelivery_lunch_hours_raw": null,
+    "mcdeliv_lunch_mobile_url": null,
+    "mcdeliv_lunch_desktop_url": null,
+    "mcdelivery_hours_dinner": null,
+    "mcdelivery_hours_dinner_raw": null,
+    "mcdelivery_dinner_mobile_u": null,
+    "mcdelivery_dinner_desktop_": null,
+    "mccafe_hours": null,
+    "mccafe_hours_raw": null,
+    "mccafe_mobile_url": null,
+    "mccafe_desktop_url": null,
+    "mcdelivery_open_date": null,
+    "mcdelivery_coverage": "<p><span>Mambourin, 3024</span></p>\n",
+    "mcdelivery_coverage_raw": "<p><span>Mambourin, 3024</span></p>",
+    "mcdelivery_com_au_url": null,
+    "mcdelivery_com_au_lunch_de": null,
+    "mcdelivery_com_au_dinner_d": null,
+    "mcdelivery_com_au_breakfas": null,
+    "mcdelivery_com_au_lunch_mo": null,
+    "mcdelivery_com_au_dinner_m": null,
+    "mcdelivery_external_url": null,
+    "mcdelivery_part_coverage": null,
+    "mcdelivery_part_coverage_raw": null,
+    "mcdelivery_coverage_toggle": true,
+    "mcdelivery_location_toggle": true,
+    "mcdelivery_link_mds": null,
+    "mcdelivery_time_mds_brk": null,
+    "mcdelivery_time_mds_brk_raw": null,
+    "mcdelivery_time_mds_lun": null,
+    "mcdelivery_time_mds_lun_raw": null,
+    "mcdelivery_time_mds_din": null,
+    "mcdelivery_time_mds_din_raw": null,
+    "mcdelivery_link_ubr": null,
+    "mcdelivery_time_ubr_brk": null,
+    "mcdelivery_time_ubr_brk_raw": null,
+    "mcdelivery_time_ubr_lun": null,
+    "mcdelivery_time_ubr_lun_raw": null,
+    "mcdelivery_time_ubr_din": null,
+    "mcdelivery_time_ubr_din_raw": null,
+    "mcdelivery_disc_ubr": null,
+    "mcdelivery_disc_ubr_raw": null,
+    "lat_long": {
+      "geom": "POINT (144.598773 -37.89799)",
+      "geo_type": "point",
+      "lat": "-37.897990000000",
+      "lon": "144.598773000000",
+      "left": "144.598773000000",
+      "top": "-37.897990000000",
+      "right": "144.598773000000",
+      "bottom": "-37.897990000000",
+      "geohash": "r1qb6kvs5weg"
+    },
+    "store_location_description": null,
+    "mcdelivery_link_mnlg": null,
+    "mcdelivery_time_mnlg_brk": null,
+    "mcdelivery_disc_mnlg": null,
+    "mcdelivery_time_mnlg_lun": null,
+    "mcdelivery_time_mnlg_din": null,
+    "mcdelivery_link_ddsh": null,
+    "mcdelivery_disc_ddsh": null,
+    "mcdelivery_time_ddsh_brk": null,
+    "mcdelivery_time_ddsh_lun": null,
+    "mcdelivery_time_ddsh_din": null
+  },
+  {
+    "title": "MULGOA RISE NSW",
+    "nid": "25651",
+    "status": "1",
+    "store_code": "9502593",
+    "store_address": "90 Glenmore Ridge Drive",
+    "store_suburb": "Glenmore Park",
+    "store_state": "NSW",
+    "store_postcode": "2745",
+    "store_phone": "(02) 4726 7800",
+    "store_fax": null,
+    "store_building_type": "Freestanding",
+    "store_party_room_seat": null,
+    "store_trading_hour": [
+      [
+        "Day",
+        "Open",
+        "Close"
+      ],
+      [
+        "Sunday",
+        "0500",
+        "2300"
+      ],
+      [
+        "Monday",
+        "0500",
+        "2300"
+      ],
+      [
+        "Tuesday",
+        "0500",
+        "2300"
+      ],
+      [
+        "Wednesday",
+        "0500",
+        "2300"
+      ],
+      [
+        "Thursday",
+        "0500",
+        "2300"
+      ],
+      [
+        "Friday",
+        "0500",
+        "2300"
+      ],
+      [
+        "Saturday",
+        "0500",
+        "2300"
+      ]
+    ],
+    "store_filter": [
+      {
+        "tid": "15",
+        "name": "Drive Thru",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "11",
+        "name": "McCafé",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "27",
+        "name": "McDelivery",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "13",
+        "name": "Playland",
+        "targetType": "taxonomy_term"
+      }
+    ],
+    "store_geocode": "150.68499755859375,-33.80051040649414,0",
+    "cyt_coverage": null,
+    "cyt_hours": null,
+    "cyt_hours_raw": null,
+    "cyt_open_date": null,
+    "mcdelivery_hours_breakfast": null,
+    "mcdelivery_hours_breakfast_raw": null,
+    "mcdelivery_breakfast_mobil": null,
+    "mcdelivery_breakfast_deskt": null,
+    "mcdelivery_lunch_hours": null,
+    "mcdelivery_lunch_hours_raw": null,
+    "mcdeliv_lunch_mobile_url": null,
+    "mcdeliv_lunch_desktop_url": null,
+    "mcdelivery_hours_dinner": null,
+    "mcdelivery_hours_dinner_raw": null,
+    "mcdelivery_dinner_mobile_u": null,
+    "mcdelivery_dinner_desktop_": null,
+    "mccafe_hours": null,
+    "mccafe_hours_raw": null,
+    "mccafe_mobile_url": null,
+    "mccafe_desktop_url": null,
+    "mcdelivery_open_date": null,
+    "mcdelivery_coverage": "<p><span>Glenmore Park, 2745</span></p>\n",
+    "mcdelivery_coverage_raw": "<p><span>Glenmore Park,&nbsp;2745</span></p>",
+    "mcdelivery_com_au_url": null,
+    "mcdelivery_com_au_lunch_de": null,
+    "mcdelivery_com_au_dinner_d": null,
+    "mcdelivery_com_au_breakfas": null,
+    "mcdelivery_com_au_lunch_mo": null,
+    "mcdelivery_com_au_dinner_m": null,
+    "mcdelivery_external_url": null,
+    "mcdelivery_part_coverage": null,
+    "mcdelivery_part_coverage_raw": null,
+    "mcdelivery_coverage_toggle": true,
+    "mcdelivery_location_toggle": true,
+    "mcdelivery_link_mds": null,
+    "mcdelivery_time_mds_brk": null,
+    "mcdelivery_time_mds_brk_raw": null,
+    "mcdelivery_time_mds_lun": null,
+    "mcdelivery_time_mds_lun_raw": null,
+    "mcdelivery_time_mds_din": null,
+    "mcdelivery_time_mds_din_raw": null,
+    "mcdelivery_link_ubr": null,
+    "mcdelivery_time_ubr_brk": null,
+    "mcdelivery_time_ubr_brk_raw": null,
+    "mcdelivery_time_ubr_lun": null,
+    "mcdelivery_time_ubr_lun_raw": null,
+    "mcdelivery_time_ubr_din": null,
+    "mcdelivery_time_ubr_din_raw": null,
+    "mcdelivery_disc_ubr": null,
+    "mcdelivery_disc_ubr_raw": null,
+    "lat_long": {
+      "geom": "POINT (150.68499755859 -33.800510406494)",
+      "geo_type": "point",
+      "lat": "-33.800510406494",
+      "lon": "150.684997558590",
+      "left": "150.684997558590",
+      "top": "-33.800510406494",
+      "right": "150.684997558590",
+      "bottom": "-33.800510406494",
+      "geohash": "r3gpsyv3ybjvewp3"
+    },
+    "store_location_description": null,
+    "mcdelivery_link_mnlg": null,
+    "mcdelivery_time_mnlg_brk": null,
+    "mcdelivery_disc_mnlg": null,
+    "mcdelivery_time_mnlg_lun": null,
+    "mcdelivery_time_mnlg_din": null,
+    "mcdelivery_link_ddsh": null,
+    "mcdelivery_disc_ddsh": null,
+    "mcdelivery_time_ddsh_brk": null,
+    "mcdelivery_time_ddsh_lun": null,
+    "mcdelivery_time_ddsh_din": null
+  },
+  {
+    "title": "CESSNOCK SOUTH NSW",
+    "nid": "25653",
+    "status": "1",
+    "store_code": "9502104",
+    "store_address": "217-219 Vincent St",
+    "store_suburb": "Cessnock",
+    "store_state": "NSW",
+    "store_postcode": "2325",
+    "store_phone": "(02) 4990 0300",
+    "store_fax": null,
+    "store_building_type": "Freestanding",
+    "store_party_room_seat": null,
+    "store_trading_hour": [
+      [
+        "Day",
+        "Open",
+        "Close"
+      ],
+      [
+        "Sunday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Monday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Tuesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Wednesday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Thursday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Friday",
+        "0000",
+        "0000"
+      ],
+      [
+        "Saturday",
+        "0000",
+        "0000"
+      ]
+    ],
+    "store_filter": [
+      {
+        "tid": "12",
+        "name": "24 Hours",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "15",
+        "name": "Drive Thru",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "11",
+        "name": "McCafé",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "27",
+        "name": "McDelivery",
+        "targetType": "taxonomy_term"
+      },
+      {
+        "tid": "13",
+        "name": "Playland",
+        "targetType": "taxonomy_term"
+      }
+    ],
+    "store_geocode": "151.35525506402163,-32.839496172020276,0",
+    "cyt_coverage": null,
+    "cyt_hours": null,
+    "cyt_hours_raw": null,
+    "cyt_open_date": null,
+    "mcdelivery_hours_breakfast": null,
+    "mcdelivery_hours_breakfast_raw": null,
+    "mcdelivery_breakfast_mobil": null,
+    "mcdelivery_breakfast_deskt": null,
+    "mcdelivery_lunch_hours": null,
+    "mcdelivery_lunch_hours_raw": null,
+    "mcdeliv_lunch_mobile_url": null,
+    "mcdeliv_lunch_desktop_url": null,
+    "mcdelivery_hours_dinner": null,
+    "mcdelivery_hours_dinner_raw": null,
+    "mcdelivery_dinner_mobile_u": null,
+    "mcdelivery_dinner_desktop_": null,
+    "mccafe_hours": null,
+    "mccafe_hours_raw": null,
+    "mccafe_mobile_url": null,
+    "mccafe_desktop_url": null,
+    "mcdelivery_open_date": null,
+    "mcdelivery_coverage": "<p><span>Cessnock, 2325</span></p>\n",
+    "mcdelivery_coverage_raw": "<p><span>Cessnock, 2325</span></p>",
+    "mcdelivery_com_au_url": null,
+    "mcdelivery_com_au_lunch_de": null,
+    "mcdelivery_com_au_dinner_d": null,
+    "mcdelivery_com_au_breakfas": null,
+    "mcdelivery_com_au_lunch_mo": null,
+    "mcdelivery_com_au_dinner_m": null,
+    "mcdelivery_external_url": null,
+    "mcdelivery_part_coverage": null,
+    "mcdelivery_part_coverage_raw": null,
+    "mcdelivery_coverage_toggle": true,
+    "mcdelivery_location_toggle": true,
+    "mcdelivery_link_mds": null,
+    "mcdelivery_time_mds_brk": null,
+    "mcdelivery_time_mds_brk_raw": null,
+    "mcdelivery_time_mds_lun": null,
+    "mcdelivery_time_mds_lun_raw": null,
+    "mcdelivery_time_mds_din": null,
+    "mcdelivery_time_mds_din_raw": null,
+    "mcdelivery_link_ubr": null,
+    "mcdelivery_time_ubr_brk": null,
+    "mcdelivery_time_ubr_brk_raw": null,
+    "mcdelivery_time_ubr_lun": null,
+    "mcdelivery_time_ubr_lun_raw": null,
+    "mcdelivery_time_ubr_din": null,
+    "mcdelivery_time_ubr_din_raw": null,
+    "mcdelivery_disc_ubr": null,
+    "mcdelivery_disc_ubr_raw": null,
+    "lat_long": {
+      "geom": "POINT (151.35525506402 -32.83949617202)",
+      "geo_type": "point",
+      "lat": "-32.839496172020",
+      "lon": "151.355255064020",
+      "left": "151.355255064020",
+      "top": "-32.839496172020",
+      "right": "151.355255064020",
+      "bottom": "-32.839496172020",
+      "geohash": "r65thjv8144nfu87"
+    },
+    "store_location_description": null,
+    "mcdelivery_link_mnlg": null,
     "mcdelivery_time_mnlg_brk": null,
     "mcdelivery_disc_mnlg": null,
     "mcdelivery_time_mnlg_lun": null,
