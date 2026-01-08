@@ -22838,22 +22838,22 @@
       [
         "Sunday",
         "0800",
-        "2000"
+        "2100"
       ],
       [
         "Monday",
         "0800",
-        "2000"
+        "2100"
       ],
       [
         "Tuesday",
         "0800",
-        "2000"
+        "2100"
       ],
       [
         "Wednesday",
         "0800",
-        "2000"
+        "2100"
       ],
       [
         "Thursday",
@@ -22863,12 +22863,12 @@
       [
         "Friday",
         "0800",
-        "2100"
+        "2200"
       ],
       [
         "Saturday",
         "0800",
-        "2000"
+        "2100"
       ]
     ],
     "store_filter": [
@@ -22901,7 +22901,7 @@
     "mccafe_desktop_url": null,
     "mcdelivery_open_date": null,
     "mcdelivery_coverage": "<p>Belconnen, 2617;</p>\n",
-    "mcdelivery_coverage_raw": "<p>Belconnen, 2617;</p>\n",
+    "mcdelivery_coverage_raw": "<p>Belconnen, 2617;</p>",
     "mcdelivery_com_au_url": null,
     "mcdelivery_com_au_lunch_de": null,
     "mcdelivery_com_au_dinner_d": null,
@@ -22928,7 +22928,7 @@
     "mcdelivery_time_ubr_din": null,
     "mcdelivery_time_ubr_din_raw": null,
     "mcdelivery_disc_ubr": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>\n",
-    "mcdelivery_disc_ubr_raw": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>\n",
+    "mcdelivery_disc_ubr_raw": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>",
     "lat_long": {
       "geom": "POINT (149.06709194183 -35.238425101854)",
       "geo_type": "point",
@@ -112563,22 +112563,22 @@
       [
         "Sunday",
         "0500",
-        "2300"
+        "2200"
       ],
       [
         "Monday",
         "0500",
-        "2300"
+        "2200"
       ],
       [
         "Tuesday",
         "0500",
-        "2300"
+        "2200"
       ],
       [
         "Wednesday",
         "0500",
-        "2300"
+        "2200"
       ],
       [
         "Thursday",
@@ -112631,7 +112631,7 @@
     "store_geocode": "148.29969584941864,-34.31348903712117,0",
     "cyt_coverage": "Young 2594",
     "cyt_hours": "<p>Sun 10:30 am - 10:00pm</p>\n<p>Mon 10:30 am - 10:00pm</p>\n<p>Tue 10:30 am - 10:00pm</p>\n<p>Wed 10:30 am - 10:00pm</p>\n<p>Thu 10:30 am - 10:00pm</p>\n<p>Fri 10:30 am - 10:00pm</p>\n<p>Sat 10:30 am - 10:00pm</p>\n",
-    "cyt_hours_raw": "<p>Sun 10:30 am - 10:00pm</p>\n<p>Mon 10:30 am - 10:00pm</p>\n<p>Tue 10:30 am - 10:00pm</p>\n<p>Wed 10:30 am - 10:00pm</p>\n<p>Thu 10:30 am - 10:00pm</p>\n<p>Fri 10:30 am - 10:00pm</p>\n<p>Sat 10:30 am - 10:00pm</p>\n",
+    "cyt_hours_raw": "<p>Sun 10:30 am - 10:00pm</p><p>Mon&nbsp;10:30 am - 10:00pm</p><p>Tue&nbsp;10:30 am - 10:00pm</p><p>Wed&nbsp;10:30 am -&nbsp;10:00pm</p><p>Thu&nbsp;10:30 am -&nbsp;10:00pm</p><p>Fri&nbsp;10:30 am -&nbsp;10:00pm</p><p>Sat&nbsp;10:30 am -&nbsp;10:00pm</p>",
     "cyt_open_date": null,
     "mcdelivery_hours_breakfast": null,
     "mcdelivery_hours_breakfast_raw": null,
@@ -112651,7 +112651,7 @@
     "mccafe_desktop_url": null,
     "mcdelivery_open_date": null,
     "mcdelivery_coverage": "<p>Young, 2594</p>\n",
-    "mcdelivery_coverage_raw": "<p>Young, 2594</p>\n",
+    "mcdelivery_coverage_raw": "<p>Young, 2594</p>",
     "mcdelivery_com_au_url": null,
     "mcdelivery_com_au_lunch_de": null,
     "mcdelivery_com_au_dinner_d": null,
@@ -112678,7 +112678,7 @@
     "mcdelivery_time_ubr_din": null,
     "mcdelivery_time_ubr_din_raw": null,
     "mcdelivery_disc_ubr": "<p>Delivery zones vary by partner.</p>\n",
-    "mcdelivery_disc_ubr_raw": "<p>Delivery zones vary by partner.</p>\n",
+    "mcdelivery_disc_ubr_raw": "<p>Delivery zones vary by partner.</p>",
     "lat_long": {
       "geom": "POINT (148.29969584942 -34.313489037121)",
       "geo_type": "point",
