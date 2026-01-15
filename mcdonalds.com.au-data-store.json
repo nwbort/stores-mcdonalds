@@ -44940,46 +44940,41 @@
       ],
       [
         "Sunday",
-        "0000",
-        "0000"
+        "9999",
+        "9999"
       ],
       [
         "Monday",
-        "0000",
-        "0000"
+        "9999",
+        "9999"
       ],
       [
         "Tuesday",
-        "0000",
-        "0000"
+        "9999",
+        "9999"
       ],
       [
         "Wednesday",
-        "0000",
-        "0000"
+        "9999",
+        "9999"
       ],
       [
         "Thursday",
-        "0000",
-        "0000"
+        "9999",
+        "9999"
       ],
       [
         "Friday",
-        "0000",
-        "0000"
+        "9999",
+        "9999"
       ],
       [
         "Saturday",
-        "0000",
-        "0000"
+        "9999",
+        "9999"
       ]
     ],
     "store_filter": [
-      {
-        "tid": "12",
-        "name": "24 Hours",
-        "targetType": "taxonomy_term"
-      },
       {
         "tid": "14",
         "name": "Birthday Parties",
@@ -45014,7 +45009,7 @@
     "store_geocode": "146.76192104816437,-19.300779888777733,0",
     "cyt_coverage": "Aitkenvale 4814",
     "cyt_hours": "<p>Sun 10:30 am - 10:00pm</p>\n<p>Mon 10:30 am - 10:00pm</p>\n<p>Tue 10:30 am - 10:00pm</p>\n<p>Wed 10:30 am - 10:00pm</p>\n<p>Thu 10:30 am - 10:00pm</p>\n<p>Fri 10:30 am - 10:00pm</p>\n<p>Sat 10:30 am - 10:00pm</p>\n",
-    "cyt_hours_raw": "<p>Sun 10:30 am - 10:00pm</p>\n<p>Mon 10:30 am - 10:00pm</p>\n<p>Tue 10:30 am - 10:00pm</p>\n<p>Wed 10:30 am - 10:00pm</p>\n<p>Thu 10:30 am - 10:00pm</p>\n<p>Fri 10:30 am - 10:00pm</p>\n<p>Sat 10:30 am - 10:00pm</p>\n",
+    "cyt_hours_raw": "<p>Sun 10:30 am - 10:00pm</p><p>Mon&nbsp;10:30 am - 10:00pm</p><p>Tue&nbsp;10:30 am - 10:00pm</p><p>Wed&nbsp;10:30 am -&nbsp;10:00pm</p><p>Thu&nbsp;10:30 am -&nbsp;10:00pm</p><p>Fri&nbsp;10:30 am -&nbsp;10:00pm</p><p>Sat&nbsp;10:30 am -&nbsp;10:00pm</p>",
     "cyt_open_date": null,
     "mcdelivery_hours_breakfast": null,
     "mcdelivery_hours_breakfast_raw": null,
@@ -45034,7 +45029,7 @@
     "mccafe_desktop_url": null,
     "mcdelivery_open_date": null,
     "mcdelivery_coverage": "<p>Aitkenvale, 4814;</p>\n",
-    "mcdelivery_coverage_raw": "<p>Aitkenvale, 4814;</p>\n",
+    "mcdelivery_coverage_raw": "<p>Aitkenvale, 4814;</p>",
     "mcdelivery_com_au_url": null,
     "mcdelivery_com_au_lunch_de": null,
     "mcdelivery_com_au_dinner_d": null,
@@ -45061,7 +45056,7 @@
     "mcdelivery_time_ubr_din": null,
     "mcdelivery_time_ubr_din_raw": null,
     "mcdelivery_disc_ubr": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>\n",
-    "mcdelivery_disc_ubr_raw": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>\n",
+    "mcdelivery_disc_ubr_raw": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Delivery zones vary by partner.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:11203,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:3,&quot;3&quot;:2},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\">Delivery zones vary by partner.</span></p>",
     "lat_long": {
       "geom": "POINT (146.76192104816 -19.300779888778)",
       "geo_type": "point",
