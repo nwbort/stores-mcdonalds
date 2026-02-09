@@ -84,7 +84,7 @@
 
 	
 <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
-                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gsp6dqyximqqk2mig2lq-f-64a9d6236-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1945971","ak.ai":parseInt("248813",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"h2","ak.rid":"68573b9e","ak.r":44793,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.bpcip":"52.159.225.0","ak.cport":28696,"ak.gh":"23.67.78.29","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1770534551","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==fWZViksnqEGJkYeeb3KUPGYqES88T8mvNC3HaatG9utaXwx5uGyC/6mYvoVx7bfnwUfh3L8CCSYj7I7C5S7LhE6QeG+oJSMdE+AhqU0Zofxzhn3dZA9OG1+rTeJ2EC2OQ7owAxr5wsLtK+UqLwjG+2mWMlChtI8cVdL5LwezbNjlVM07ViBOsHUnNYCJEhUJqbmVDNPOsqyIqnYmuJo2wytzuSmZKrWgS1rH9e3bRmAyU34oJqVANEC4/59bzwckotBtaXwX2E7V9QdDVTDiQTRzAwLgD3WEgmqM9gwrXGlQjATOaHS7XCdilsJrIVEBoUkV1q+6e81nX3xeaMU++vw6R5syHVQNzd+g77F550MaYIHQDh/z6LD9DMKMK/w2hGFCKgekqB7e2PNMPpzJ59JebcjQ801rSX9sJ+RIpw0=","ak.pv":"261","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="idwi3vix2w5m42mjryba-f-709f80761-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1945971","ak.ai":parseInt("248813",10),"ak.ol":"0","ak.cr":2,"ak.ipv":4,"ak.proto":"h2","ak.rid":"4cea75f3","ak.r":51095,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.bpcip":"64.236.141.0","ak.cport":3008,"ak.gh":"23.215.214.238","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1770622466","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==sCigSal9dP5Tyl3SKh5PJ9hijUndJcSreo3AWmB03YTLLNFMgVNnUyGTZqfw3XBiMlNefZY36B9LOVXUxuI2g7Nm1qSvTC8gdstd8Eur5eoBscBEgv0FEgZe2KBR9clNQu/oOt8m2/IV2SbhsTE4QHfRn5/WSDvkmhRdwO9MU14DZ4Whvh6FIy8IXsdD5tIxLCIrSNCKWxlApzTw02Tt+bdvliJptnkkaiCKGYIxzeyvsXRbVRx5h0PfBPT+91VG1uZq/gEQpy+dtCgzjeTLOrOo6sDysP5rVFABr3Ot7DW7SjygadulMfZ7BRIE5DB2O/FGii6yWhYQvtvof/g1LV98MrpZUXhCL1RXmceJAz2fokMfx9heGu3dbTT3Cv6sptsHukQoeks6JKHTomp1mpCswWKSCAGMZhZ3+mdadg8=","ak.pv":"261","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
     <body class="rootpage basepage page basicpage" id="rootpage-7a1ab0fb1e" data-cmp-data-layer-enabled>
         <script>
           window.adobeDataLayer = window.adobeDataLayer || [];
@@ -353,7 +353,7 @@
                                             
 												
                                                 <li class="menu-item key-arrow-parent" data-active="false">
-                                                    <a href="/au/en-au/menu/happy-meal.html" class="link key-arrow-move" data-cmp-clickable data-cmp-data-layer="{&#34;navigation-1aef1fe22a-b58253994f&#34;:{&#34;linkPosition&#34;:&#34;TopNav:Menu:Happy Meal®&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/happy-meal.html&#34;,&#34;dc:title&#34;:&#34;Happy Meal®&#34;}}">
+                                                    <a href="/au/en-au/menu/happy-meal.html" class="link key-arrow-move" data-cmp-clickable data-cmp-data-layer="{&#34;navigation-1aef1fe22a-8776cbf4be&#34;:{&#34;linkPosition&#34;:&#34;TopNav:Menu:Happy Meal&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/happy-meal.html&#34;,&#34;dc:title&#34;:&#34;Happy Meal&#34;}}">
 														
                                                         <picture>
 															<!-- Mobile -->
@@ -363,7 +363,7 @@
 															<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
 															<img src="https://s7d1.scene7.com/is/image/mcdonalds/Happy%20Meal-1:menu-category?resmode=sharp2" alt=""/>
 														</picture>
-                                                        <span class="menu-text">Happy Meal®</span>
+                                                        <span class="menu-text">Happy Meal</span>
                                                     </a>
                                                 </li>
                                             
@@ -373,11 +373,11 @@
 														
                                                         <picture>
 															<!-- Mobile -->
-															<source srcset="https://s7d1.scene7.com/is/image/mcdonalds/Desserts-1:menu-category?resmode=sharp2" media="(max-width: 1023px)"/>
+															<source srcset="https://s7d1.scene7.com/is/image/mcdonalds/Desserts2:menu-category?resmode=sharp2" media="(max-width: 1023px)"/>
 															<!-- large screen -->
-															<source srcset="https://s7d1.scene7.com/is/image/mcdonalds/Desserts-1:menu-category?resmode=sharp2"/>
+															<source srcset="https://s7d1.scene7.com/is/image/mcdonalds/Desserts2:menu-category?resmode=sharp2"/>
 															<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
-															<img src="https://s7d1.scene7.com/is/image/mcdonalds/Desserts-1:menu-category?resmode=sharp2" alt=""/>
+															<img src="https://s7d1.scene7.com/is/image/mcdonalds/Desserts2:menu-category?resmode=sharp2" alt=""/>
 														</picture>
                                                         <span class="menu-text">Desserts </span>
                                                     </a>
@@ -872,7 +872,7 @@
                                             
 												
                                                 <li class="menu-item key-arrow-parent" data-active="false">
-                                                    <a href="/au/en-au/menu/happy-meal.html" class="link key-arrow-move" data-cmp-clickable data-cmp-data-layer="{&#34;navigation-1aef1fe22a-b58253994f&#34;:{&#34;linkPosition&#34;:&#34;TopNav:Menu:Happy Meal®&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/happy-meal.html&#34;,&#34;dc:title&#34;:&#34;Happy Meal®&#34;}}">
+                                                    <a href="/au/en-au/menu/happy-meal.html" class="link key-arrow-move" data-cmp-clickable data-cmp-data-layer="{&#34;navigation-1aef1fe22a-8776cbf4be&#34;:{&#34;linkPosition&#34;:&#34;TopNav:Menu:Happy Meal&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/happy-meal.html&#34;,&#34;dc:title&#34;:&#34;Happy Meal&#34;}}">
 														
                                                         <picture>
 															<!-- Mobile -->
@@ -882,7 +882,7 @@
 															<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
 															<img src="https://s7d1.scene7.com/is/image/mcdonalds/Happy%20Meal-1:menu-category?resmode=sharp2" alt=""/>
 														</picture>
-                                                        <span class="menu-text">Happy Meal®</span>
+                                                        <span class="menu-text">Happy Meal</span>
                                                     </a>
                                                 </li>
                                             
@@ -892,11 +892,11 @@
 														
                                                         <picture>
 															<!-- Mobile -->
-															<source srcset="https://s7d1.scene7.com/is/image/mcdonalds/Desserts-1:menu-category?resmode=sharp2" media="(max-width: 1023px)"/>
+															<source srcset="https://s7d1.scene7.com/is/image/mcdonalds/Desserts2:menu-category?resmode=sharp2" media="(max-width: 1023px)"/>
 															<!-- large screen -->
-															<source srcset="https://s7d1.scene7.com/is/image/mcdonalds/Desserts-1:menu-category?resmode=sharp2"/>
+															<source srcset="https://s7d1.scene7.com/is/image/mcdonalds/Desserts2:menu-category?resmode=sharp2"/>
 															<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
-															<img src="https://s7d1.scene7.com/is/image/mcdonalds/Desserts-1:menu-category?resmode=sharp2" alt=""/>
+															<img src="https://s7d1.scene7.com/is/image/mcdonalds/Desserts2:menu-category?resmode=sharp2" alt=""/>
 														</picture>
                                                         <span class="menu-text">Desserts </span>
                                                     </a>
@@ -3537,5 +3537,5 @@ function OptanonWrapper(){}
             
 
         
-    <script type="text/javascript"  src="/apuzDg1oE4gN2/n4X79WkJ9Wgw/RA/EhV5Qr2ktuf28SE1aE/KyMEeFx7bw/N2/5lISgAWVYB"></script></body>
+    <script type="text/javascript"  src="/tjnpMVLcU0T36WXlWgRr/Ow5LVtNXYXfDtQN3/FTgSUDs/U3/N7TmoTNREB"></script></body>
 </html>
