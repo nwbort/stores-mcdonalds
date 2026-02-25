@@ -40,6 +40,8 @@
 <link rel="canonical" href="https://www.mcdonalds.com/au/en-au.html"/>
 
 
+	<link rel="alternate" hreflang="en" href="https://www.mcdonalds.com/au/en-au.html"/>
+
 
 
 
@@ -84,12 +86,12 @@
 
 	
 <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
-                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="vswfnzax2t45a2m5kntq-f-411a606a6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1945971","ak.ai":parseInt("248813",10),"ak.ol":"0","ak.cr":4,"ak.ipv":4,"ak.proto":"h2","ak.rid":"47e4ac61","ak.r":42005,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.bpcip":"172.172.86.0","ak.cport":58496,"ak.gh":"23.220.105.212","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1771918183","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==RJToJ354gNmRsT2v6dGaIIPThj3U2nsOOT82kC2cpRoTeS/rxqGAPSdRAVztyNCbMe61BS4bpge5CpqgPv3h72hfxVyHNGKV4A1ydPv6qLZULoDyeuCqL9voZ5Q4LdpgCyVAzdy3t4BJ5spkNJPkfX63ubvr3dPK354Rujdu5EcfmRyq8JWYBK6eJZrpp7UgqD3I/YoeIiBwXCMoyAY/B4z3ZCqrsbGcdLZ3dsmdF2A6e4hZwZAOWLeY/d8efx6tdW1vztc8a8aGjDy4lgj1RRYaq4VyvMtPVnl3JAG22axs3Ih6Q1QA0UtwU1679BAfyBvpvm+RcyCxskbftAneWVSV0IdFG9+XXinXqI4Swszjxst1PryAu1E++PZLo186smx8mUS3yysCeM9xPRySUhziqVjZYopZRpZnZ/pCPJM=","ak.pv":"261","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="vtkkhyaxyydda2m6utza-f-764b312ab-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1945971","ak.ai":parseInt("248813",10),"ak.ol":"0","ak.cr":25,"ak.ipv":4,"ak.proto":"h2","ak.rid":"70808a81","ak.r":37607,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.bpcip":"172.212.163.0","ak.cport":43968,"ak.gh":"23.198.5.58","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1772004594","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==2xWGCiplwXf+w7c66ptjnWgC9uqBotTvrSC+pb96Q8mhRog4kO/kAy696mEnyWhS90IMQsHMMe4vXCKl+m0JJauBnWJn1cZeibtkrOXi2+RBnaTPxW2jkvdj7XNLlq3rOfqi3htn/t366qJyj0RCCz7diPxryG70Nrr5Bu0fF7DWzietM8tGJAUeWyGIho8zR4sBnQmGfshUUBkQvGnsNJ1//Bj11O9mfqfd8v/mtbUsCBM5ywS1zjcS70ZYf4Wt22d0KxskjDgUmKY9C112SqutDrjcQhGGdoKnXz/JnPI/PWBulCZJxeE3ajVYe/EC7enfpe1u1RbrQoVKkhnSOfj9cVrL7ogqUYvPgXuXn/CtDT8edmmXWJDGO7CGf0fBVCEIEogpfXCngMKnuMymI43QFEsXWFH/QYKVQtRldyI=","ak.pv":"261","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
     <body class="rootpage basepage page basicpage" id="rootpage-7a1ab0fb1e" data-cmp-data-layer-enabled>
         <script>
           window.adobeDataLayer = window.adobeDataLayer || [];
           adobeDataLayer.push({
-              page: JSON.parse("{\x22rootpage\u002D7a1ab0fb1e\x22:{\x22@type\x22:\x22mcdonalds\/components\/structure\/rootpage\x22,\x22repo:modifyDate\x22:\x222026\u002D02\u002D10T06:38:30Z\x22,\x22dc:title\x22:\x22McDonald’s Australia\x22,\x22dc:description\x22:\x22The official McDonald’s Australia website. Explore our menu, find offers and rewards, locate restaurants and discover the latest news from Macca’s®.\x22,\x22xdm:template\x22:\x22\/conf\/mcdonalds\/settings\/wcm\/templates\/root\u002Dpage\u002Dtemplate\x22,\x22xdm:language\x22:\x22en\u002DAU\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/mcdonalds\/au\/en\u002Dau.html\x22}}"),
+              page: JSON.parse("{\x22rootpage\u002D7a1ab0fb1e\x22:{\x22@type\x22:\x22mcdonalds\/components\/structure\/rootpage\x22,\x22repo:modifyDate\x22:\x222026\u002D02\u002D24T22:21:09Z\x22,\x22dc:title\x22:\x22McDonald’s Australia\x22,\x22dc:description\x22:\x22The official McDonald’s Australia website. Explore our menu, find offers and rewards, locate restaurants and discover the latest news from Macca’s®.\x22,\x22xdm:template\x22:\x22\/conf\/mcdonalds\/settings\/wcm\/templates\/root\u002Dpage\u002Dtemplate\x22,\x22xdm:language\x22:\x22en\u002DAU\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/mcdonalds\/au\/en\u002Dau.html\x22}}"),
               event:'cmp:show',
               eventInfo: {
                   path: 'page.rootpage\u002D7a1ab0fb1e'
@@ -1205,7 +1207,137 @@
     <div class="cmp-carousel__content" aria-atomic="false" aria-live="off">
 
 
-        <div id="carousel-8a143b5b5f-item-a66fbe2fcf" class="cmp-carousel__item cmp-carousel__item--active" role="tabpanel" aria-roledescription="slide" aria-label="Slide 1 of 6" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-a66fbe2fcf&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-10T06:38:30Z&#34;,&#34;dc:title&#34;:&#34;Honey Sriracha Range&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
+        <div id="carousel-8a143b5b5f-item-40b5e68121" class="cmp-carousel__item cmp-carousel__item--active" role="tabpanel" aria-roledescription="slide" aria-label="Slide 1 of 4" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-40b5e68121&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-24T22:21:09Z&#34;,&#34;dc:title&#34;:&#34;Bearnaise Angus&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
+<div id="teaser-40b5e68121" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-40b5e68121&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-24T22:21:09Z&#34;,&#34;dc:title&#34;:&#34;&lt;p>&lt;span class=\&#34;heading-4\&#34;>Chef&#39;s Kiss&lt;/span>&lt;/p>\r\n&#34;,&#34;dc:description&#34;:&#34;&lt;p>For a limited time only.&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;}}" data-component="teaser">
+    
+    <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/au/en-au/_jcr_content/root/container/container/carousel/item_1769557069015.coreimg{.width}.png/1771971669736/bistro-bearnaise-homepage-banner.png" data-asset="/content/dam/sites/au/nfl/homepage/bistro_bearnaise_homepage_banner.png" data-asset-id="9a72790e-cb5e-405a-945f-bc5c73065d41" data-title="friends meal" data-cmp-data-layer="{&#34;image-40b5e68121&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/content/image/v1/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-24T22:21:09Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;9a72790e-cb5e-405a-945f-bc5c73065d41&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-22T22:41:37Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/sites/au/nfl/homepage/bistro_bearnaise_homepage_banner.png&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/landscape&#34;],&#34;xdm:smartTags&#34;:{&#34;mcdassets:campaign/2-for-dollar4-mix-and-match-deal&#34;:0.9743908047676086,&#34;burger&#34;:0.85,&#34;carnivore&#34;:0.766,&#34;food photography&#34;:0.875}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+
+	    
+        
+            
+                   
+            
+					<picture>
+						<!-- Mobile -->
+						<source srcset="/content/dam/sites/au/nfl/homepage/bistro_bearnaise_homepage_banner.png" media="(max-width: 1023px)"/>
+						<!-- large screen -->
+						<source srcset="/content/dam/sites/au/nfl/homepage/bistro_bearnaise_homepage_banner.png"/>
+						<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
+						<img loading="lazy" src="/content/dam/sites/au/nfl/homepage/bistro_bearnaise_homepage_banner.png" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt="friends meal"/>
+					</picture>
+			      
+			      
+
+            
+        
+    
+    
+    
+</div>
+
+    
+</div>
+
+    <div class="cmp-teaser__content">
+      <div class="cmp-teaser__body">
+        
+    
+
+        
+    <div class="cmp-teaser__title"><p><span class="heading-4">Chef&#39;s Kiss</span></p>
+</div>
+
+        
+    <div class="cmp-teaser__description"><p>For a limited time only.</p>
+</div>
+
+      </div>
+        
+<div class="cmp-teaser__action-container">
+
+
+    <a class="cmp-teaser__action-link" href="/au/en-au/menu/featured.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-40b5e68121-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore more:1&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;,&#34;dc:title&#34;:&#34;Explore more&#34;}}">
+	   Explore more</a>
+
+</div>
+
+		
+	
+
+    </div>
+</div>
+
+    
+
+
+</div>
+</div>
+<div id="carousel-8a143b5b5f-item-bad4d77768" class="cmp-carousel__item" role="tabpanel" aria-roledescription="slide" aria-label="Slide 2 of 4" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-bad4d77768&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-22T22:44:08Z&#34;,&#34;dc:title&#34;:&#34;LLB&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
+<div id="teaser-bad4d77768" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-bad4d77768&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-22T22:44:08Z&#34;,&#34;dc:title&#34;:&#34;&lt;p>&lt;span class=\&#34;heading-2\&#34;>Kirks® Lemon, Lime &amp;amp; Bitters&lt;/span>&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/cold-and-frozen-drinks/kirks-lemon-lime-bitters-medium.html&#34;}}" data-component="teaser">
+    
+    <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/au/en-au/_jcr_content/root/container/container/carousel/item_1762475866513.coreimg{.width}.jpeg/1771800248123/lemon-lime-bitters-homepage-banner.jpeg" data-asset="/content/dam/sites/au/nfl/homepage/lemon_lime_bitters_homepage_banner.jpg" data-asset-id="87d42a70-a73c-431c-bb06-bebe8bf7cab3" data-cmp-data-layer="{&#34;image-bad4d77768&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/content/image/v1/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-22T22:44:08Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;87d42a70-a73c-431c-bb06-bebe8bf7cab3&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-22T22:41:37Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/sites/au/nfl/homepage/lemon_lime_bitters_homepage_banner.jpg&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/landscape&#34;],&#34;xdm:smartTags&#34;:{&#34;commercial photography&#34;:0.823,&#34;snacks&#34;:0.758,&#34;ribs&#34;:0.771}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+
+	    
+        
+            
+                   
+            
+			      
+						<picture>
+							<!-- Mobile -->
+							<source srcset="/content/dam/sites/au/nfl/homepage/lemon_lime_bitters_homepage_banner.jpg" media="(max-width: 1023px)"/>
+							<!-- large screen -->
+							<source srcset="/content/dam/sites/au/nfl/homepage/lemon_lime_bitters_homepage_banner.jpg"/>
+							<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
+							<img loading="lazy" src="/content/dam/sites/au/nfl/homepage/lemon_lime_bitters_homepage_banner.jpg" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt=""/>
+						</picture>
+                
+			      
+
+            
+        
+    
+    
+    
+</div>
+
+    
+</div>
+
+    <div class="cmp-teaser__content">
+      <div class="cmp-teaser__body">
+        
+    
+
+        
+    <div class="cmp-teaser__title"><p><span class="heading-2">Kirks® Lemon, Lime &amp; Bitters</span></p>
+</div>
+
+        
+    
+
+      </div>
+        
+<div class="cmp-teaser__action-container">
+
+
+    <a class="cmp-teaser__action-link" href="/au/en-au/menu/cold-and-frozen-drinks/kirks-lemon-lime-bitters-medium.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-bad4d77768-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore more:2&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/cold-and-frozen-drinks/kirks-lemon-lime-bitters-medium.html&#34;,&#34;dc:title&#34;:&#34;Explore more&#34;}}">
+	   Explore more</a>
+
+</div>
+
+		
+	
+
+    </div>
+</div>
+
+    
+
+
+</div>
+</div>
+<div id="carousel-8a143b5b5f-item-a66fbe2fcf" class="cmp-carousel__item" role="tabpanel" aria-roledescription="slide" aria-label="Slide 3 of 4" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-a66fbe2fcf&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-10T06:38:30Z&#34;,&#34;dc:title&#34;:&#34;Honey Sriracha Range&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
 <div id="teaser-a66fbe2fcf" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-a66fbe2fcf&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-10T06:38:30Z&#34;,&#34;dc:title&#34;:&#34;&lt;h4>&lt;span class=\&#34;heading-2\&#34;>&lt;span class=\&#34;heading-4\&#34;>Sweet Meets Heat&lt;/span>&lt;/span>&lt;/h4>\r\n&#34;,&#34;dc:description&#34;:&#34;&lt;p>A hot new take on iconic Macca’s breakfast favourites&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;}}" data-component="teaser">
     
     <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/au/en-au/_jcr_content/root/container/container/carousel/item_1770685914333.coreimg{.width}.jpeg/1770705510235/honey-sriracha-homepage-banner2.jpeg" data-asset="/content/dam/sites/au/nfl/homepage/honey_sriracha_homepage_banner2.jpg" data-asset-id="622f022b-4a6c-43c6-acda-c90d22972c5c" data-title="Honey Sriracha Range" data-cmp-data-layer="{&#34;image-a66fbe2fcf&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/content/image/v1/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-10T06:38:30Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;622f022b-4a6c-43c6-acda-c90d22972c5c&#34;,&#34;repo:modifyDate&#34;:&#34;2026-02-10T06:36:09Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/sites/au/nfl/homepage/honey_sriracha_homepage_banner2.jpg&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/landscape&#34;],&#34;xdm:smartTags&#34;:{&#34;mcdassets:campaign/2-for-dollar4-mix-and-match-deal&#34;:0.9720475077629089,&#34;burger&#34;:0.827,&#34;food photography&#34;:0.89,&#34;hamburger&#34;:0.823}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
@@ -1254,7 +1386,7 @@
 <div class="cmp-teaser__action-container">
 
 
-    <a class="cmp-teaser__action-link" href="/au/en-au/menu/featured.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-a66fbe2fcf-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore More:1&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;,&#34;dc:title&#34;:&#34;Explore More&#34;}}">
+    <a class="cmp-teaser__action-link" href="/au/en-au/menu/featured.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-a66fbe2fcf-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore More:3&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;,&#34;dc:title&#34;:&#34;Explore More&#34;}}">
 	   Explore More</a>
 
 </div>
@@ -1270,269 +1402,7 @@
 
 </div>
 </div>
-<div id="carousel-8a143b5b5f-item-40b5e68121" class="cmp-carousel__item" role="tabpanel" aria-roledescription="slide" aria-label="Slide 2 of 6" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-40b5e68121&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T23:43:16Z&#34;,&#34;dc:title&#34;:&#34;Friends Meal&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
-<div id="teaser-40b5e68121" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-40b5e68121&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T23:43:16Z&#34;,&#34;dc:title&#34;:&#34;&lt;p>&lt;span class=\&#34;heading-4\&#34;>Get 1 of 6 Friends!&lt;/span>&lt;/p>\r\n&#34;,&#34;dc:description&#34;:&#34;&lt;p>Choose from a medium or large Big Mac or 10pc Chicken McNuggets Meal.&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/value-bundle-meals/the-friends-meal.html&#34;}}" data-component="teaser">
-    
-    <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/au/en-au/_jcr_content/root/container/container/carousel/item_1769557069015.coreimg{.width}.png/1769557396352/friends-meal-hm2.png" data-asset="/content/dam/sites/au/nfl/homepage/friends_meal_HM2.png" data-asset-id="7fc1360f-1874-4cac-8a91-e6419702872b" data-title="friends meal" data-cmp-data-layer="{&#34;image-40b5e68121&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/content/image/v1/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T23:43:16Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;7fc1360f-1874-4cac-8a91-e6419702872b&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T23:38:47Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/sites/au/nfl/homepage/friends_meal_HM2.png&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/landscape&#34;],&#34;xdm:smartTags&#34;:{&#34;food photography&#34;:0.774}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
-
-	    
-        
-            
-                   
-            
-					<picture>
-						<!-- Mobile -->
-						<source srcset="/content/dam/sites/au/nfl/homepage/friends_meal_HM2.png" media="(max-width: 1023px)"/>
-						<!-- large screen -->
-						<source srcset="/content/dam/sites/au/nfl/homepage/friends_meal_HM2.png"/>
-						<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
-						<img loading="lazy" src="/content/dam/sites/au/nfl/homepage/friends_meal_HM2.png" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt="friends meal"/>
-					</picture>
-			      
-			      
-
-            
-        
-    
-    
-    
-</div>
-
-    
-</div>
-
-    <div class="cmp-teaser__content">
-      <div class="cmp-teaser__body">
-        
-    
-
-        
-    <div class="cmp-teaser__title"><p><span class="heading-4">Get 1 of 6 Friends!</span></p>
-</div>
-
-        
-    <div class="cmp-teaser__description"><p>Choose from a medium or large Big Mac or 10pc Chicken McNuggets Meal.</p>
-</div>
-
-      </div>
-        
-<div class="cmp-teaser__action-container">
-
-
-    <a class="cmp-teaser__action-link" href="/au/en-au/menu/value-bundle-meals/the-friends-meal.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-40b5e68121-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore more:2&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/value-bundle-meals/the-friends-meal.html&#34;,&#34;dc:title&#34;:&#34;Explore more&#34;}}">
-	   Explore more</a>
-
-</div>
-
-		
-	
-
-    </div>
-</div>
-
-    
-
-
-</div>
-</div>
-<div id="carousel-8a143b5b5f-item-bad4d77768" class="cmp-carousel__item" role="tabpanel" aria-roledescription="slide" aria-label="Slide 3 of 6" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-bad4d77768&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:22Z&#34;,&#34;dc:title&#34;:&#34;El Maco&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
-<div id="teaser-bad4d77768" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-bad4d77768&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:22Z&#34;,&#34;dc:title&#34;:&#34;&lt;p>&lt;span class=\&#34;heading-2\&#34;>El Maco returns&lt;/span>&lt;/p>\r\n&#34;,&#34;dc:description&#34;:&#34;&lt;p>Crispy. Crunchy. El Maco-y.&amp;nbsp;&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;}}" data-component="teaser">
-    
-    <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/au/en-au/_jcr_content/root/container/container/carousel/item_1762475866513.coreimg{.width}.jpeg/1769127322148/el-maco-2026.jpeg" data-asset="/content/dam/sites/au/nfl/homepage/El_Maco_2026.jpg" data-asset-id="b675c28d-a56d-4ae9-b99e-e9f1d0baf0f8" data-cmp-data-layer="{&#34;image-bad4d77768&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/content/image/v1/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:22Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;b675c28d-a56d-4ae9-b99e-e9f1d0baf0f8&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-20T06:52:36Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/sites/au/nfl/homepage/El_Maco_2026.jpg&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/landscape&#34;],&#34;xdm:smartTags&#34;:{&#34;mcdassets:campaign/2-for-dollar4-mix-and-match-deal&#34;:0.969422459602356,&#34;food photography&#34;:0.822,&#34;menu&#34;:0.788}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
-
-	    
-        
-            
-                   
-            
-			      
-						<picture>
-							<!-- Mobile -->
-							<source srcset="/content/dam/sites/au/nfl/homepage/El_Maco_2026.jpg" media="(max-width: 1023px)"/>
-							<!-- large screen -->
-							<source srcset="/content/dam/sites/au/nfl/homepage/El_Maco_2026.jpg"/>
-							<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
-							<img loading="lazy" src="/content/dam/sites/au/nfl/homepage/El_Maco_2026.jpg" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt=""/>
-						</picture>
-                
-			      
-
-            
-        
-    
-    
-    
-</div>
-
-    
-</div>
-
-    <div class="cmp-teaser__content">
-      <div class="cmp-teaser__body">
-        
-    
-
-        
-    <div class="cmp-teaser__title"><p><span class="heading-2">El Maco returns</span></p>
-</div>
-
-        
-    <div class="cmp-teaser__description"><p>Crispy. Crunchy. El Maco-y. </p>
-</div>
-
-      </div>
-        
-<div class="cmp-teaser__action-container">
-
-
-    <a class="cmp-teaser__action-link" href="/au/en-au/menu/featured.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-bad4d77768-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore more:3&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;,&#34;dc:title&#34;:&#34;Explore more&#34;}}">
-	   Explore more</a>
-
-</div>
-
-		
-	
-
-    </div>
-</div>
-
-    
-
-
-</div>
-</div>
-<div id="carousel-8a143b5b5f-item-fc592aa0f9" class="cmp-carousel__item" role="tabpanel" aria-roledescription="slide" aria-label="Slide 4 of 6" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-fc592aa0f9&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:36Z&#34;,&#34;dc:title&#34;:&#34;MILO&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
-<div id="teaser-fc592aa0f9" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-fc592aa0f9&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:36Z&#34;,&#34;dc:title&#34;:&#34;&lt;p>&lt;span class=\&#34;heading-4\&#34;>NEW Shake &amp;amp; McFlurry&lt;/span>&lt;/p>\r\n&#34;,&#34;dc:description&#34;:&#34;&lt;p>Two ways to enjoy MILO® at Macca&#39;s.&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;}}" data-component="teaser">
-    
-    <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/au/en-au/_jcr_content/root/container/container/carousel/item_1768439996396.coreimg{.width}.jpeg/1769127336359/milo-1.jpeg" data-asset="/content/dam/sites/au/nfl/homepage/Milo_1.jpg" data-asset-id="9f17b48c-7e71-47bf-a0dc-81461f33ff55" data-title="MILO® " data-cmp-data-layer="{&#34;image-fc592aa0f9&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/content/image/v1/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:36Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;9f17b48c-7e71-47bf-a0dc-81461f33ff55&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-20T06:52:35Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/sites/au/nfl/homepage/Milo_1.jpg&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/landscape&#34;],&#34;xdm:smartTags&#34;:{&#34;mixture&#34;:0.844,&#34;product photography&#34;:0.861,&#34;milky&#34;:0.791}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
-
-	    
-        
-            
-                   
-            
-					<picture>
-						<!-- Mobile -->
-						<source srcset="/content/dam/sites/au/nfl/homepage/Milo_1.jpg" media="(max-width: 1023px)"/>
-						<!-- large screen -->
-						<source srcset="/content/dam/sites/au/nfl/homepage/Milo_1.jpg"/>
-						<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
-						<img loading="lazy" src="/content/dam/sites/au/nfl/homepage/Milo_1.jpg" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt="MILO® "/>
-					</picture>
-			      
-			      
-
-            
-        
-    
-    
-    
-</div>
-
-    
-</div>
-
-    <div class="cmp-teaser__content">
-      <div class="cmp-teaser__body">
-        
-    
-
-        
-    <div class="cmp-teaser__title"><p><span class="heading-4">NEW Shake &amp; McFlurry</span></p>
-</div>
-
-        
-    <div class="cmp-teaser__description"><p>Two ways to enjoy MILO® at Macca&#39;s.</p>
-</div>
-
-      </div>
-        
-<div class="cmp-teaser__action-container">
-
-
-    <a class="cmp-teaser__action-link" href="/au/en-au/menu/featured.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-fc592aa0f9-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore more:4&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;,&#34;dc:title&#34;:&#34;Explore more&#34;}}">
-	   Explore more</a>
-
-</div>
-
-		
-	
-
-    </div>
-</div>
-
-    
-
-
-</div>
-</div>
-<div id="carousel-8a143b5b5f-item-bf60283cf3" class="cmp-carousel__item" role="tabpanel" aria-roledescription="slide" aria-label="Slide 5 of 6" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-bf60283cf3&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-13T03:43:56Z&#34;,&#34;dc:title&#34;:&#34;Mega Brekkie McWrap®&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
-<div id="teaser-bf60283cf3" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-bf60283cf3&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-13T03:43:56Z&#34;,&#34;dc:title&#34;:&#34;&lt;p>&lt;span class=\&#34;heading-2\&#34;>For BIG hunger&lt;/span>&lt;/p>\r\n&#34;,&#34;dc:description&#34;:&#34;&lt;p>Your morning hunger has met its match.&amp;nbsp;&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/breakfast/mega-brekkie-mcwrap.html&#34;}}" data-component="teaser">
-    
-    <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/au/en-au/_jcr_content/root/container/container/carousel/item_1766106500278.coreimg{.width}.jpeg/1768891955991/new-bbw-newsite-2026.jpeg" data-asset="/content/dam/sites/au/nfl/homepage/New_BBW_newsite_2026.jpg" data-asset-id="2c3d255c-021d-41f6-bf6e-86dfa1df6ff9" data-cmp-data-layer="{&#34;image-bf60283cf3&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/content/image/v1/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-13T03:43:56Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;2c3d255c-021d-41f6-bf6e-86dfa1df6ff9&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-20T06:52:35Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/sites/au/nfl/homepage/New_BBW_newsite_2026.jpg&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/landscape&#34;],&#34;xdm:smartTags&#34;:{&#34;mcdassets:campaign/2-for-dollar4-mix-and-match-deal&#34;:0.9368568658828735,&#34;burger&#34;:0.808,&#34;mcdassets:burger&#34;:0.8118947744369507,&#34;product photography&#34;:0.864,&#34;title&#34;:0.786,&#34;wrap&#34;:0.94}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
-
-	    
-        
-            
-                   
-            
-			      
-						<picture>
-							<!-- Mobile -->
-							<source srcset="/content/dam/sites/au/nfl/homepage/New_BBW_newsite_2026.jpg" media="(max-width: 1023px)"/>
-							<!-- large screen -->
-							<source srcset="/content/dam/sites/au/nfl/homepage/New_BBW_newsite_2026.jpg"/>
-							<!-- Default to load - desktop (reason IE 11 sdoesn't support picture tag)--> 
-							<img loading="lazy" src="/content/dam/sites/au/nfl/homepage/New_BBW_newsite_2026.jpg" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt=""/>
-						</picture>
-                
-			      
-
-            
-        
-    
-    
-    
-</div>
-
-    
-</div>
-
-    <div class="cmp-teaser__content">
-      <div class="cmp-teaser__body">
-        
-    
-
-        
-    <div class="cmp-teaser__title"><p><span class="heading-2">For BIG hunger</span></p>
-</div>
-
-        
-    <div class="cmp-teaser__description"><p>Your morning hunger has met its match. </p>
-</div>
-
-      </div>
-        
-<div class="cmp-teaser__action-container">
-
-
-    <a class="cmp-teaser__action-link" href="/au/en-au/menu/breakfast/mega-brekkie-mcwrap.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-bf60283cf3-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore more:5&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/breakfast/mega-brekkie-mcwrap.html&#34;,&#34;dc:title&#34;:&#34;Explore more&#34;}}">
-	   Explore more</a>
-
-</div>
-
-		
-	
-
-    </div>
-</div>
-
-    
-
-
-</div>
-</div>
-<div id="carousel-8a143b5b5f-item-5597da494d" class="cmp-carousel__item" role="tabpanel" aria-roledescription="slide" aria-label="Slide 6 of 6" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-5597da494d&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:55Z&#34;,&#34;dc:title&#34;:&#34;McGriddles®&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
+<div id="carousel-8a143b5b5f-item-5597da494d" class="cmp-carousel__item" role="tabpanel" aria-roledescription="slide" aria-label="Slide 4 of 4" data-cmp-data-layer="{&#34;carousel-8a143b5b5f-item-5597da494d&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:55Z&#34;,&#34;dc:title&#34;:&#34;McGriddles®&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--carousel-item">
 <div id="teaser-5597da494d" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-5597da494d&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:55Z&#34;,&#34;dc:title&#34;:&#34;&lt;p>&lt;span class=\&#34;heading-2\&#34;>Brekkie comes first&lt;/span>&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;}}" data-component="teaser">
     
     <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/au/en-au/_jcr_content/root/container/container/carousel/item_1766106485207.coreimg{.width}.jpeg/1769127355081/mcgriddles-1.jpeg" data-asset="/content/dam/sites/au/nfl/homepage/McGriddles_1.jpg" data-asset-id="5643f045-a7b9-4f0d-af04-7a7cf3dd4812" data-title="McGriddles®" data-cmp-data-layer="{&#34;image-5597da494d&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/content/image/v1/image&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-23T00:15:55Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;5643f045-a7b9-4f0d-af04-7a7cf3dd4812&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-20T06:52:34Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/sites/au/nfl/homepage/McGriddles_1.jpg&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/landscape&#34;],&#34;xdm:smartTags&#34;:{&#34;mcdassets:campaign/2-for-dollar4-mix-and-match-deal&#34;:0.9710822105407715,&#34;commercial photography&#34;:0.761,&#34;mcdassets:burger&#34;:0.9180511832237244}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
@@ -1580,7 +1450,7 @@
 <div class="cmp-teaser__action-container">
 
 
-    <a class="cmp-teaser__action-link" href="/au/en-au/menu/featured.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-5597da494d-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore more:6&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;,&#34;dc:title&#34;:&#34;Explore more&#34;}}">
+    <a class="cmp-teaser__action-link" href="/au/en-au/menu/featured.html" data-cmp-clickable="" data-cmp-data-layer="{&#34;teaser-5597da494d-b0056c8da7&#34;:{&#34;linkPosition&#34;:&#34;en-au:Explore more:4&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/menu/featured.html&#34;,&#34;dc:title&#34;:&#34;Explore more&#34;}}">
 	   Explore more</a>
 
 </div>
@@ -1607,7 +1477,7 @@
                         </circle>
                     </svg>
                     <!-- <span class="cmp-carousel__indicator-animator" style="animation-duration: 5000ms"></span> -->
-                    Honey Sriracha Range
+                    Bearnaise Angus
                 </li>
 <li class="cmp-carousel__indicator" role="tab" aria-controls="-item-1" id="-item-1" aria-label="Slide 2" data-cmp-hook-carousel="indicator">
                     <svg class="cmp-carousel__indicator-animator" height="22" width="22">
@@ -1616,7 +1486,7 @@
                         </circle>
                     </svg>
                     <!-- <span class="cmp-carousel__indicator-animator" style="animation-duration: 5000ms"></span> -->
-                    Friends Meal
+                    LLB
                 </li>
 <li class="cmp-carousel__indicator" role="tab" aria-controls="-item-2" id="-item-2" aria-label="Slide 3" data-cmp-hook-carousel="indicator">
                     <svg class="cmp-carousel__indicator-animator" height="22" width="22">
@@ -1625,27 +1495,9 @@
                         </circle>
                     </svg>
                     <!-- <span class="cmp-carousel__indicator-animator" style="animation-duration: 5000ms"></span> -->
-                    El Maco
+                    Honey Sriracha Range
                 </li>
 <li class="cmp-carousel__indicator" role="tab" aria-controls="-item-3" id="-item-3" aria-label="Slide 4" data-cmp-hook-carousel="indicator">
-                    <svg class="cmp-carousel__indicator-animator" height="22" width="22">
-                        <circle cx="11" cy="11" r="9" style="animation-duration: 5000ms">
-
-                        </circle>
-                    </svg>
-                    <!-- <span class="cmp-carousel__indicator-animator" style="animation-duration: 5000ms"></span> -->
-                    MILO
-                </li>
-<li class="cmp-carousel__indicator" role="tab" aria-controls="-item-4" id="-item-4" aria-label="Slide 5" data-cmp-hook-carousel="indicator">
-                    <svg class="cmp-carousel__indicator-animator" height="22" width="22">
-                        <circle cx="11" cy="11" r="9" style="animation-duration: 5000ms">
-
-                        </circle>
-                    </svg>
-                    <!-- <span class="cmp-carousel__indicator-animator" style="animation-duration: 5000ms"></span> -->
-                    Mega Brekkie McWrap®
-                </li>
-<li class="cmp-carousel__indicator" role="tab" aria-controls="-item-5" id="-item-5" aria-label="Slide 6" data-cmp-hook-carousel="indicator">
                     <svg class="cmp-carousel__indicator-animator" height="22" width="22">
                         <circle cx="11" cy="11" r="9" style="animation-duration: 5000ms">
 
@@ -3611,5 +3463,5 @@ function OptanonWrapper(){}
             
 
         
-    <script type="text/javascript"  src="/CQJASNm3NljT_lebjEZrLrdHpFY/uzi9twwSD92tcw/KBQRAQ/BFIv/RXdMZAEC"></script></body>
+    <script type="text/javascript"  src="/W_7ObP/y/8/4VXklsEiYFO2/fEEOmwzzb9VhkrYY3X/L3tjPw93/FF5I/Z185dTgB"></script></body>
 </html>
