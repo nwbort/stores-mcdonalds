@@ -109,7 +109,7 @@
 
 	
 <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
-                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="csugejax2fkjs2stkfbq-f-f03a538fd-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1945971","ak.ai":parseInt("248813",10),"ak.ol":"0","ak.cr":0,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1c21f23e","ak.r":46467,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.cport":3520,"ak.gh":"23.219.207.108","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1783845187","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==meaRkils6AvqkNYV6QK+fJWAZKF/NRQWWOLoJU2T33K4IUlowYLugfOSDKK50e923ipH1M7As6jVMui/lyXKpX1e9OH4erC47f2uzd9UsBMIMwmE8m5AWwcxcbxBk7yjWOarzeQp9biE5VzF9SmPA5ZpqawB5LBwfTxzQZ7K9sUjcv3Y/tdIcPPfVVQDnzTfPp9zgp2vc2u9BzisDimbmqrpJ0BGKDszLv25/WxMbyTqp4vX1FNmwxP8HpvlgeDcfWJNBnzKvEDfO4Z5PM8voJB1dUSXjkihQimqQ2u6PKsWncQVAkd487XSFodsB1mkZRaT0eBpoQ0POjDzL5I8X5keykx9/5Yu3aEZpx7JesA1fN5bA+kG5uKSrZhDRLJ4LqQteGwP1/E4TgQU/1ny4JtwYmoqOpTXdUvMtwxvWmc=","ak.pv":"274","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"FYHYC-U4X46-PMZ7K-XB8KU-R9ZBH";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gtxbqiqx2q7mm2suws7a-f-6a4d9b7b9-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1945971","ak.ai":parseInt("248813",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"h2","ak.rid":"31378f21","ak.r":48404,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.cport":62480,"ak.gh":"23.52.12.36","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1783936190","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==AZdwLnLm37ugzVN5AIgxCz2rqN+IaKIlro/iSYbR+Gi7RmQVAL4KMATBqoKBQGZNDmtALh+ftd88cVzNcXkoEeocgnuE9n84iyRhZt3CBdGXv6LBwF8e/uO3w9v3Rr9HUj38SEv0LHBaeSFrUqlZ4t1IxelB+/AsZ0B8DWtdqw/vmY5Q+odeOFRVU/+U3wizHzdv5/OFee4VyOtRH1W8ZbDB85yYvbYIBVQ8WUySufBOaQMjXgYLsh5Ir7h31sIfCH/xMddkBTBVPl98+wp6tn6uDB7FHohgbXRcIfxb3soifDbDRO85oznScGsqCcJkPH/2zKVu+L2FSGLwnVstp02IvsMuP2u0kTXAVvThoIwfy1CjM+l3Eu468hU+4ZYYYS+NQkm2Aj4Mor/hEkb52YKfsFLi8vmjpThh2RsrcVc=","ak.pv":"274","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
     <body class="rootpage basepage page basicpage" id="rootpage-7a1ab0fb1e" data-cmp-data-layer-enabled>
         <script>
           window.adobeDataLayer = window.adobeDataLayer || [];
@@ -560,6 +560,24 @@
    
    
       <a href="/au/en-au/whats-new.html" aria-current="false" data-cmp-clickable="" class="cmp-navigation__item-link" data-cmp-data-layer="{&#34;navigation-1aef1fe22a-e5d668eaf8&#34;:{&#34;linkPosition&#34;:&#34;TopNav:en-au:What&#39;s New&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/whats-new.html&#34;,&#34;dc:title&#34;:&#34;What&#39;s New&#34;}}"><span class="nav-title">What&#39;s New</span></a>
+   
+   
+   
+
+
+</li>
+
+        
+            
+  
+
+<li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1aef1fe22a-116e4f01b6&#34;:{&#34;linkPosition&#34;:&#34;TopNav:en-au:Value&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/value.html&#34;,&#34;dc:title&#34;:&#34;Value&#34;}}">
+
+   
+   
+   
+   
+      <a href="/au/en-au/value.html" aria-current="false" data-cmp-clickable="" class="cmp-navigation__item-link" data-cmp-data-layer="{&#34;navigation-1aef1fe22a-116e4f01b6&#34;:{&#34;linkPosition&#34;:&#34;TopNav:en-au:Value&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/value.html&#34;,&#34;dc:title&#34;:&#34;Value&#34;}}"><span class="nav-title">Value</span></a>
    
    
    
@@ -1107,6 +1125,24 @@
    
    
       <a href="/au/en-au/whats-new.html" aria-current="false" data-cmp-clickable="" class="cmp-navigation__item-link" data-cmp-data-layer="{&#34;navigation-1aef1fe22a-e5d668eaf8&#34;:{&#34;linkPosition&#34;:&#34;TopNav:en-au:What&#39;s New&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/whats-new.html&#34;,&#34;dc:title&#34;:&#34;What&#39;s New&#34;}}"><span class="nav-title">What&#39;s New</span></a>
+   
+   
+   
+
+
+</li>
+
+        
+            
+  
+
+<li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1aef1fe22a-116e4f01b6&#34;:{&#34;linkPosition&#34;:&#34;TopNav:en-au:Value&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/value.html&#34;,&#34;dc:title&#34;:&#34;Value&#34;}}">
+
+   
+   
+   
+   
+      <a href="/au/en-au/value.html" aria-current="false" data-cmp-clickable="" class="cmp-navigation__item-link" data-cmp-data-layer="{&#34;navigation-1aef1fe22a-116e4f01b6&#34;:{&#34;linkPosition&#34;:&#34;TopNav:en-au:Value&#34;,&#34;trackingType&#34;:&#34;topNav&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/value.html&#34;,&#34;dc:title&#34;:&#34;Value&#34;}}"><span class="nav-title">Value</span></a>
    
    
    
@@ -2704,10 +2740,10 @@ Macca&#39;s Bundles give you more of what you love, for less.</p>
 
                     <div class="cmp-footer__nav-links">
                       <div class="list"><ul id="column2-1410359918" data-cmp-data-layer="{&#34;list-faece3440a&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list&#34;,&#34;repo:modifyDate&#34;:&#34;2025-12-19T02:36:23Z&#34;}}" class="cmp-list">
-    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-faece3440a-item-536a01109e&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T08:42:05Z&#34;,&#34;dc:title&#34;:&#34;Happy Meals&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/happy-meals-parties/happy-meals.html&#34;}}">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-faece3440a-item-536a01109e&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T08:42:05Z&#34;,&#34;dc:title&#34;:&#34;Happy Meal&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/happy-meals-parties/happy-meals.html&#34;}}">
 
-        <a class="cmp-list__item-link" data-cmp-clickable data-cmp-data-layer="{&#34;list-faece3440a-item-536a01109e&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T08:42:05Z&#34;,&#34;dc:title&#34;:&#34;Happy Meals&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/happy-meals-parties/happy-meals.html&#34;,&#34;linkPosition&#34;:&#34;Footer:en-au:Happy Meals&#34;,&#34;trackingType&#34;:&#34;footerChannelLinks&#34;}}" href="/au/en-au/happy-meals-parties/happy-meals.html">
-            <span class="cmp-list__item-title">Happy Meals</span>
+        <a class="cmp-list__item-link" data-cmp-clickable data-cmp-data-layer="{&#34;list-faece3440a-item-536a01109e&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T08:42:05Z&#34;,&#34;dc:title&#34;:&#34;Happy Meal&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/happy-meals-parties/happy-meals.html&#34;,&#34;linkPosition&#34;:&#34;Footer:en-au:Happy Meal&#34;,&#34;trackingType&#34;:&#34;footerChannelLinks&#34;}}" href="/au/en-au/happy-meals-parties/happy-meals.html">
+            <span class="cmp-list__item-title">Happy Meal</span>
             
         </a>
         
@@ -3032,10 +3068,10 @@ Macca&#39;s Bundles give you more of what you love, for less.</p>
                         </h2>
                         <div data-cmp-hook-accordion="panel" id="accordion-mobile-two-item-6c119b11cf-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-mobile-two-item-6c119b11cf-button" aria-hidden="true">
                             <div class="list"><ul id="column2-1410359918" data-cmp-data-layer="{&#34;list-faece3440a&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list&#34;,&#34;repo:modifyDate&#34;:&#34;2025-12-19T02:36:23Z&#34;}}" class="cmp-list">
-    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-faece3440a-item-536a01109e&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T08:42:05Z&#34;,&#34;dc:title&#34;:&#34;Happy Meals&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/happy-meals-parties/happy-meals.html&#34;}}">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-faece3440a-item-536a01109e&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T08:42:05Z&#34;,&#34;dc:title&#34;:&#34;Happy Meal&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/happy-meals-parties/happy-meals.html&#34;}}">
 
-        <a class="cmp-list__item-link" data-cmp-clickable data-cmp-data-layer="{&#34;list-faece3440a-item-536a01109e&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T08:42:05Z&#34;,&#34;dc:title&#34;:&#34;Happy Meals&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/happy-meals-parties/happy-meals.html&#34;,&#34;linkPosition&#34;:&#34;Footer:en-au:Happy Meals&#34;,&#34;trackingType&#34;:&#34;footerChannelLinks&#34;}}" href="/au/en-au/happy-meals-parties/happy-meals.html">
-            <span class="cmp-list__item-title">Happy Meals</span>
+        <a class="cmp-list__item-link" data-cmp-clickable data-cmp-data-layer="{&#34;list-faece3440a-item-536a01109e&#34;:{&#34;@type&#34;:&#34;mcdonalds/components/proxy/content/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-01-27T08:42:05Z&#34;,&#34;dc:title&#34;:&#34;Happy Meal&#34;,&#34;xdm:linkURL&#34;:&#34;/au/en-au/happy-meals-parties/happy-meals.html&#34;,&#34;linkPosition&#34;:&#34;Footer:en-au:Happy Meal&#34;,&#34;trackingType&#34;:&#34;footerChannelLinks&#34;}}" href="/au/en-au/happy-meals-parties/happy-meals.html">
+            <span class="cmp-list__item-title">Happy Meal</span>
             
         </a>
         
@@ -3889,5 +3925,5 @@ function OptanonWrapper(){}
             
 
         
-    <script type="text/javascript"  src="/5FgOrSuUGKNVQqkS-n9h8nO1/rOw9tzhLYcQLfc/IVIdI3dzAQ/MkZGfEQh/LmYB"></script></body>
+    <script type="text/javascript"  src="/XjuHWs/wOH/Jtj/E3rUbg/a99LLLVQ7mJmNbV7/UmhvDi0VAQM/MU/wMPyM4DAYC"></script></body>
 </html>
